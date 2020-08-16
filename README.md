@@ -5,6 +5,11 @@
 [![scikit-opt](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=scikit-opt&theme=radical)](https://github.com/guofei9987/scikit-opt)
 [![blind_watermark](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=blind_watermark&theme=radical)](https://github.com/guofei9987/blind_watermark)
 
+### Hi there 👋
+
+- 🔭 目前在蚂蚁集团做算法工程师
+- 🌱 热爱技术：[技术博客](https://www.guofei.site/) 累积 342 篇
+- 🤔 喜欢读书：[读书笔记](https://www.guofei.site/reading/#/) 40万字
 
 
 <!--
