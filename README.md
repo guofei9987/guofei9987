@@ -1,8 +1,14 @@
-### Hi there 👋
+
 
 ![guofei9987](https://github-readme-stats.vercel.app/api?username=guofei9987&show_icons=true&theme=radical&hide=commits,prs)
 
+[![scikit-opt](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=scikit-opt)](https://github.com/guofei9987/scikit-opt) [![blind_watermark](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=blind_watermark)](https://github.com/guofei9987/blind_watermark)
+
+
+
 <!--
+### Hi there 👋
+
 **guofei9987/guofei9987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
