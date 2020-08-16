@@ -2,7 +2,8 @@
 
 ![guofei9987](https://github-readme-stats.vercel.app/api?username=guofei9987&show_icons=true&theme=radical&hide=commits,prs)
 
-[![scikit-opt](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=scikit-opt)](https://github.com/guofei9987/scikit-opt) [![blind_watermark](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=blind_watermark)](https://github.com/guofei9987/blind_watermark)
+[![scikit-opt](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=scikit-opt&theme=radical)](https://github.com/guofei9987/scikit-opt)
+[![blind_watermark](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=blind_watermark&theme=radical)](https://github.com/guofei9987/blind_watermark)
 
 
 
