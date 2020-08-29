@@ -13,7 +13,6 @@
 - 🤔 喜欢读书：[读书笔记](https://www.guofei.site/reading/#/) 40万字
 - ⚡ one of 121 authors in [scipy 1.0.0](https://mail.python.org/pipermail/scipy-user/2017-October/037357.html)
 
-[![guofei9987](https://github-readme-stats.vercel.app/api?username=guofei9987&show_icons=true&theme=radical&hide=commits,prs)](https://www.guofei.site/)
 
 [![scikit-opt](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=scikit-opt&theme=radical)](https://github.com/guofei9987/scikit-opt)
 [![blind_watermark](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=blind_watermark&theme=radical)](https://github.com/guofei9987/blind_watermark)
