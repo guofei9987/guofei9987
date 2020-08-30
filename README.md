@@ -33,6 +33,13 @@
       <a href="https://github.com/wangshub">神奇的战士</a>
     </td>
     <td align="center">
+      <a href="https://github.com/fly51fly">
+        <img src="https://avatars2.githubusercontent.com/u/128885" width="100px;" alt="fly51fly"/>
+      </a>
+      <br />
+      <a href="https://github.com/fly51fly">爱可可-爱生活</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/toricode">
         <img src="https://avatars2.githubusercontent.com/u/59090883" width="100px;" alt="toricode"/>
       </a>
@@ -67,13 +74,6 @@
       <br />
       <a href="https://github.com/vra">Yunfeng Wang</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/mds1455975151">
-        <img src="https://avatars2.githubusercontent.com/u/12950929" width="100px;" alt="mds1455975151"/>
-      </a>
-      <br />
-      <a href="https://github.com/mds1455975151">mds1455975151</a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -82,6 +82,13 @@
       </a>
       <br />
       <a href="https://github.com/XiaoTaoWang">Xiaotao Wang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mds1455975151">
+        <img src="https://avatars2.githubusercontent.com/u/12950929" width="100px;" alt="mds1455975151"/>
+      </a>
+      <br />
+      <a href="https://github.com/mds1455975151">mds1455975151</a>
     </td>
     <td align="center">
       <a href="https://github.com/tomzhang">
@@ -117,13 +124,6 @@
       </a>
       <br />
       <a href="https://github.com/giserh">giserh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/FeynmanDNA">
-        <img src="https://avatars2.githubusercontent.com/u/26617036" width="100px;" alt="FeynmanDNA"/>
-      </a>
-      <br />
-      <a href="https://github.com/FeynmanDNA">KYY</a>
     </td>
   </tr>
 </table>
