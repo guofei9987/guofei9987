@@ -119,11 +119,11 @@
       <a href="https://github.com/chrinide">Chrinide</a>
     </td>
     <td align="center">
-      <a href="https://github.com/giserh">
-        <img src="https://avatars2.githubusercontent.com/u/6565882" width="100px;" alt="giserh"/>
+      <a href="https://github.com/luoqiuluoqiu">
+        <img src="https://avatars2.githubusercontent.com/u/18000060" width="100px;" alt="luoqiuluoqiu"/>
       </a>
       <br />
-      <a href="https://github.com/giserh">giserh</a>
+      <a href="https://github.com/luoqiuluoqiu">lanye</a>
     </td>
   </tr>
 </table>
