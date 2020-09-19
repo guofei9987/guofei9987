@@ -77,18 +77,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mds1455975151">
-        <img src="https://avatars2.githubusercontent.com/u/12950929" width="100px;" alt="mds1455975151"/>
-      </a>
-      <br />
-      <a href="https://github.com/mds1455975151">mds1455975151</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/XiaoTaoWang">
         <img src="https://avatars2.githubusercontent.com/u/8737225" width="100px;" alt="XiaoTaoWang"/>
       </a>
       <br />
       <a href="https://github.com/XiaoTaoWang">Xiaotao Wang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mds1455975151">
+        <img src="https://avatars2.githubusercontent.com/u/12950929" width="100px;" alt="mds1455975151"/>
+      </a>
+      <br />
+      <a href="https://github.com/mds1455975151">mds1455975151</a>
     </td>
     <td align="center">
       <a href="https://github.com/tomzhang">
