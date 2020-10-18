@@ -12,7 +12,7 @@
 - 🌱 热爱技术：[技术博客](https://www.guofei.site/) 累积 342 篇
 - 🤔 喜欢读书：[读书笔记](https://www.guofei.site/reading/#/) 40万字
 - ⚡ one of 121 authors in [scipy 1.0.0](https://mail.python.org/pipermail/scipy-user/2017-October/037357.html)
-- 🏃 经常跑步：每年700公里跑步
+- 🏃 经常跑步
 - 没事儿看看 Coursera
 
 -------------------
