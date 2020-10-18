@@ -149,11 +149,11 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>More...</summary>
+  <summary>🤔 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
-    <!--START_SECTION:zhihu-followers-->
-    获得9,469次赞同，1,205次喜欢，4,398次收藏，1,046个关注
-    <!--END_SECTION:zhihu-followers-->
+<!--START_SECTION:zhihu-followers-->
+获得9,469次赞同，1,205次喜欢，4,398次收藏，1,046个关注
+<!--END_SECTION:zhihu-followers-->
   <br>
 </details>
 
