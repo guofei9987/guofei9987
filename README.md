@@ -100,6 +100,13 @@
       <a href="https://github.com/tomzhang">mingfeng.zhang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mave99a">
+        <img src="https://avatars2.githubusercontent.com/u/41923" width="100px;" alt="mave99a"/>
+      </a>
+      <br />
+      <a href="https://github.com/mave99a">Robert Mao</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/thieu1995">
         <img src="https://avatars2.githubusercontent.com/u/12763861" width="100px;" alt="thieu1995"/>
       </a>
@@ -119,13 +126,6 @@
       </a>
       <br />
       <a href="https://github.com/chrinide">Chrinide</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gognlin">
-        <img src="https://avatars2.githubusercontent.com/u/18588618" width="100px;" alt="gognlin"/>
-      </a>
-      <br />
-      <a href="https://github.com/gognlin">gognlin</a>
     </td>
   </tr>
 </table>
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得9,607次赞同，1,229次喜欢，4,507次收藏，1,066个关注
+获得9,621次赞同，1,234次喜欢，4,521次收藏，1,068个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
