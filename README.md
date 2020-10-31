@@ -121,11 +121,11 @@
       <a href="https://github.com/tinytang">tinytang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/chrinide">
-        <img src="https://avatars2.githubusercontent.com/u/7123439" width="100px;" alt="chrinide"/>
+      <a href="https://github.com/gognlin">
+        <img src="https://avatars2.githubusercontent.com/u/18588618" width="100px;" alt="gognlin"/>
       </a>
       <br />
-      <a href="https://github.com/chrinide">Chrinide</a>
+      <a href="https://github.com/gognlin">gognlin</a>
     </td>
   </tr>
 </table>
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得9,621次赞同，1,234次喜欢，4,521次收藏，1,068个关注
+获得9,627次赞同，1,235次喜欢，4,529次收藏，1,069个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
