@@ -114,18 +114,18 @@
       <a href="https://github.com/thieu1995">Nguyen Van Thieu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Paladinhanxiao">
+        <img src="https://avatars2.githubusercontent.com/u/19170275" width="100px;" alt="Paladinhanxiao"/>
+      </a>
+      <br />
+      <a href="https://github.com/Paladinhanxiao">含笑</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/tinytang">
         <img src="https://avatars2.githubusercontent.com/u/579126" width="100px;" alt="tinytang"/>
       </a>
       <br />
       <a href="https://github.com/tinytang">tinytang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gognlin">
-        <img src="https://avatars2.githubusercontent.com/u/18588618" width="100px;" alt="gognlin"/>
-      </a>
-      <br />
-      <a href="https://github.com/gognlin">gognlin</a>
     </td>
   </tr>
 </table>
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得10,142次赞同，1,310次喜欢，4,882次收藏，1,151个关注
+获得10,155次赞同，1,312次喜欢，4,893次收藏，1,156个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
