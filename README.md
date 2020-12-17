@@ -107,18 +107,18 @@
       <a href="https://github.com/tomzhang">mingfeng.zhang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mave99a">
-        <img src="https://avatars2.githubusercontent.com/u/41923" width="100px;" alt="mave99a"/>
-      </a>
-      <br />
-      <a href="https://github.com/mave99a">Robert Mao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thieu1995">
         <img src="https://avatars2.githubusercontent.com/u/12763861" width="100px;" alt="thieu1995"/>
       </a>
       <br />
       <a href="https://github.com/thieu1995">Nguyen Van Thieu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mave99a">
+        <img src="https://avatars2.githubusercontent.com/u/41923" width="100px;" alt="mave99a"/>
+      </a>
+      <br />
+      <a href="https://github.com/mave99a">Robert Mao</a>
     </td>
     <td align="center">
       <a href="https://github.com/Paladinhanxiao">
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得10,253次赞同，1,327次喜欢，4,985次收藏，1,183个关注
+获得10,260次赞同，1,329次喜欢，4,992次收藏，1,184个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
