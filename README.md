@@ -42,6 +42,13 @@
       <a href="https://github.com/fly51fly">爱可可-爱生活</a>
     </td>
     <td align="center">
+      <a href="https://github.com/PeterDing">
+        <img src="https://avatars2.githubusercontent.com/u/670690" width="100px;" alt="PeterDing"/>
+      </a>
+      <br />
+      <a href="https://github.com/PeterDing">Peter Ding</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/toricode">
         <img src="https://avatars2.githubusercontent.com/u/59090883" width="100px;" alt="toricode"/>
       </a>
@@ -69,6 +76,8 @@
       <br />
       <a href="https://github.com/jonbaer">Jon Baer</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/vra">
         <img src="https://avatars2.githubusercontent.com/u/5562395" width="100px;" alt="vra"/>
@@ -76,8 +85,6 @@
       <br />
       <a href="https://github.com/vra">Yunfeng Wang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Tim2906">
         <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
@@ -120,13 +127,6 @@
       <br />
       <a href="https://github.com/mave99a">Robert Mao</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Paladinhanxiao">
-        <img src="https://avatars2.githubusercontent.com/u/19170275" width="100px;" alt="Paladinhanxiao"/>
-      </a>
-      <br />
-      <a href="https://github.com/Paladinhanxiao">含笑</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得10,313次赞同，1,338次喜欢，5,051次收藏，1,195个关注
+获得10,314次赞同，1,339次喜欢，5,056次收藏，1,196个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
