@@ -93,11 +93,11 @@
       <a href="https://github.com/Tim2906">Tim</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mds1455975151">
-        <img src="https://avatars2.githubusercontent.com/u/12950929" width="100px;" alt="mds1455975151"/>
+      <a href="https://github.com/sjkcdpc">
+        <img src="https://avatars2.githubusercontent.com/u/12950929" width="100px;" alt="sjkcdpc"/>
       </a>
       <br />
-      <a href="https://github.com/mds1455975151">mds1455975151</a>
+      <a href="https://github.com/sjkcdpc">sjkcdpc</a>
     </td>
     <td align="center">
       <a href="https://github.com/XiaoTaoWang">
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得10,314次赞同，1,339次喜欢，5,056次收藏，1,196个关注
+获得10,315次赞同，1,339次喜欢，5,058次收藏，1,197个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
