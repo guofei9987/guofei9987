@@ -70,20 +70,20 @@
       <a href="https://github.com/wmathor">mathor</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Tim2906">
-        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tim2906">Tim</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/jonbaer">
         <img src="https://avatars2.githubusercontent.com/u/13155" width="100px;" alt="jonbaer"/>
       </a>
       <br />
       <a href="https://github.com/jonbaer">Jon Baer</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Tim2906">
+        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tim2906">Tim</a>
     </td>
     <td align="center">
       <a href="https://github.com/vra">
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得14,986次赞同，1,727次喜欢，7,450次收藏，2,350个关注
+获得14,989次赞同，1,727次喜欢，7,454次收藏，2,348个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
