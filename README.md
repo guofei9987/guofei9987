@@ -28,6 +28,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/521xueweihan">
+        <img src="https://avatars2.githubusercontent.com/u/8255800" width="100px;" alt="521xueweihan"/>
+      </a>
+      <br />
+      <a href="https://github.com/521xueweihan">削微寒</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/wangshub">
         <img src="https://avatars2.githubusercontent.com/u/20924010" width="100px;" alt="wangshub"/>
       </a>
@@ -69,6 +76,8 @@
       <br />
       <a href="https://github.com/wmathor">mathor</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tim2906">
         <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
@@ -76,8 +85,6 @@
       <br />
       <a href="https://github.com/Tim2906">Tim</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jonbaer">
         <img src="https://avatars2.githubusercontent.com/u/13155" width="100px;" alt="jonbaer"/>
@@ -120,13 +127,6 @@
       <br />
       <a href="https://github.com/tomzhang">mingfeng.zhang</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Paladinhanxiao">
-        <img src="https://avatars2.githubusercontent.com/u/19170275" width="100px;" alt="Paladinhanxiao"/>
-      </a>
-      <br />
-      <a href="https://github.com/Paladinhanxiao">含笑</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得15,023次赞同，1,737次喜欢，7,495次收藏，2,360个关注
+获得15,030次赞同，1,737次喜欢，7,502次收藏，2,359个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
