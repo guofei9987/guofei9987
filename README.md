@@ -121,11 +121,11 @@
       <a href="https://github.com/thieu1995">Nguyen Van Thieu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sjkcdpc">
-        <img src="https://avatars2.githubusercontent.com/u/12950929" width="100px;" alt="sjkcdpc"/>
+      <a href="https://github.com/XiaoTaoWang">
+        <img src="https://avatars2.githubusercontent.com/u/8737225" width="100px;" alt="XiaoTaoWang"/>
       </a>
       <br />
-      <a href="https://github.com/sjkcdpc">sjkcdpc</a>
+      <a href="https://github.com/XiaoTaoWang">Xiaotao Wang</a>
     </td>
   </tr>
 </table>
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得15,198次赞同，1,761次喜欢，7,687次收藏，2,412个关注
+获得15,198次赞同，1,761次喜欢，7,693次收藏，2,413个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
