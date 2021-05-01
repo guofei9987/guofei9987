@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-<a href="https://www.guofei.site/"><img align="right" alt="guofei9987's github stats" width="40%" src="https://github-profile-trophy.vercel.app/?username=guofei9987&title=Stars,Followers&row=1&column=2"></a>
+<a href="https://www.guofei.site/2019/08/31/github_star_counter.html"><img align="right" alt="guofei9987's github stats" width="40%" src="https://github-profile-trophy.vercel.app/?username=guofei9987&title=Stars,Followers&row=1&column=2"></a>
 
 
 - 🔭 目前在蚂蚁集团（算法，安全）
