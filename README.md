@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-<a href="https://www.guofei.site/"><img align="right" alt="guofei9987's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=guofei9987&show_icons=true&theme=radical&hide=commits,prs)"></a>
+<a href="https://www.guofei.site/"><img align="right" alt="guofei9987's github stats" width="50%" src="https://github-profile-trophy.vercel.app/?username=guofei9987&title=Stars,Followers)"></a>
 
 
 - 🔭 目前在蚂蚁集团（算法，安全）
@@ -158,7 +158,3 @@ Here are some ideas to get you started:
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
-
-
-
-
