@@ -49,6 +49,13 @@
       <a href="https://github.com/fly51fly">爱可可-爱生活</a>
     </td>
     <td align="center">
+      <a href="https://github.com/losfair">
+        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
+      </a>
+      <br />
+      <a href="https://github.com/losfair">Heyang Zhou</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/tom0li">
         <img src="https://avatars2.githubusercontent.com/u/23234555" width="100px;" alt="tom0li"/>
       </a>
@@ -69,6 +76,8 @@
       <br />
       <a href="https://github.com/toricode">toricode</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/wmathor">
         <img src="https://avatars2.githubusercontent.com/u/32392878" width="100px;" alt="wmathor"/>
@@ -76,8 +85,6 @@
       <br />
       <a href="https://github.com/wmathor">mathor</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/liushooter">
         <img src="https://avatars2.githubusercontent.com/u/1235106" width="100px;" alt="liushooter"/>
@@ -120,13 +127,6 @@
       <br />
       <a href="https://github.com/thieu1995">Nguyen Van Thieu</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/XiaoTaoWang">
-        <img src="https://avatars2.githubusercontent.com/u/8737225" width="100px;" alt="XiaoTaoWang"/>
-      </a>
-      <br />
-      <a href="https://github.com/XiaoTaoWang">Xiaotao Wang</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得15,442次赞同，1,830次喜欢，7,994次收藏，2,472个关注
+获得15,449次赞同，1,830次喜欢，8,001次收藏，2,473个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
