@@ -100,18 +100,18 @@
       <a href="https://github.com/Tim2906">Tim</a>
     </td>
     <td align="center">
-      <a href="https://github.com/h4m5t">
-        <img src="https://avatars2.githubusercontent.com/u/70065998" width="100px;" alt="h4m5t"/>
-      </a>
-      <br />
-      <a href="https://github.com/h4m5t">h4m5t</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jonbaer">
         <img src="https://avatars2.githubusercontent.com/u/13155" width="100px;" alt="jonbaer"/>
       </a>
       <br />
       <a href="https://github.com/jonbaer">Jon Baer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/h4m5t">
+        <img src="https://avatars2.githubusercontent.com/u/70065998" width="100px;" alt="h4m5t"/>
+      </a>
+      <br />
+      <a href="https://github.com/h4m5t">h4m5t</a>
     </td>
     <td align="center">
       <a href="https://github.com/vra">
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得16,048次赞同，1,940次喜欢，8,803次收藏，2,604个关注
+获得16,066次赞同，1,943次喜欢，8,817次收藏，2,609个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
