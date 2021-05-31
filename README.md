@@ -86,18 +86,18 @@
       <a href="https://github.com/wmathor">mathor</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Tim2906">
-        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tim2906">Tim</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/liushooter">
         <img src="https://avatars2.githubusercontent.com/u/1235106" width="100px;" alt="liushooter"/>
       </a>
       <br />
       <a href="https://github.com/liushooter">Shooter</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tim2906">
+        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tim2906">Tim</a>
     </td>
     <td align="center">
       <a href="https://github.com/jonbaer">
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得16,106次赞同，1,953次喜欢，8,892次收藏，2,616个关注
+获得16,121次赞同，1,961次喜欢，8,937次收藏，2,618个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
