@@ -37,6 +37,13 @@
       <a href="https://github.com/521xueweihan">削微寒</a>
     </td>
     <td align="center">
+      <a href="https://github.com/esin">
+        <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
+      </a>
+      <br />
+      <a href="https://github.com/esin">Andrey Esin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/wangshub">
         <img src="https://avatars2.githubusercontent.com/u/20924010" width="100px;" alt="wangshub"/>
       </a>
@@ -71,6 +78,8 @@
       <br />
       <a href="https://github.com/PeterDing">Peter Ding</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/wmathor">
         <img src="https://avatars2.githubusercontent.com/u/32392878" width="100px;" alt="wmathor"/>
@@ -78,8 +87,6 @@
       <br />
       <a href="https://github.com/wmathor">mathor</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/toricode">
         <img src="https://avatars2.githubusercontent.com/u/59090883" width="100px;" alt="toricode"/>
@@ -122,13 +129,6 @@
       <br />
       <a href="https://github.com/vra">Yunfeng Wang</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Paladinhanxiao">
-        <img src="https://avatars2.githubusercontent.com/u/19170275" width="100px;" alt="Paladinhanxiao"/>
-      </a>
-      <br />
-      <a href="https://github.com/Paladinhanxiao">含笑</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得16,813次赞同，2,111次喜欢，9,926次收藏，2,778个关注
+获得16,820次赞同，2,113次喜欢，9,941次收藏，2,779个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
