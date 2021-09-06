@@ -123,11 +123,11 @@
       <a href="https://github.com/jonbaer">Jon Baer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kylesu2738">
-        <img src="https://avatars2.githubusercontent.com/u/90133079" width="100px;" alt="kylesu2738"/>
+      <a href="https://github.com/vra">
+        <img src="https://avatars2.githubusercontent.com/u/5562395" width="100px;" alt="vra"/>
       </a>
       <br />
-      <a href="https://github.com/kylesu2738">Kyle Su</a>
+      <a href="https://github.com/vra">Yunfeng Wang</a>
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得16,822次赞同，2,114次喜欢，9,957次收藏，2,787个关注
+获得16,825次赞同，2,116次喜欢，9,966次收藏，2,788个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
