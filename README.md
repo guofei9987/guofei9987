@@ -58,6 +58,13 @@
       <a href="https://github.com/fly51fly">爱可可-爱生活</a>
     </td>
     <td align="center">
+      <a href="https://github.com/snowwhite-boss">
+        <img src="https://avatars2.githubusercontent.com/u/74522790" width="100px;" alt="snowwhite-boss"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowwhite-boss">Snow White</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/losfair">
         <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
       </a>
@@ -71,6 +78,8 @@
       <br />
       <a href="https://github.com/tom0li">tom0li</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/PeterDing">
         <img src="https://avatars2.githubusercontent.com/u/670690" width="100px;" alt="PeterDing"/>
@@ -78,8 +87,6 @@
       <br />
       <a href="https://github.com/PeterDing">Peter Ding</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/wmathor">
         <img src="https://avatars2.githubusercontent.com/u/32392878" width="100px;" alt="wmathor"/>
@@ -109,25 +116,18 @@
       <a href="https://github.com/liushooter">Shooter</a>
     </td>
     <td align="center">
+      <a href="https://github.com/justStarNew">
+        <img src="https://avatars2.githubusercontent.com/u/18233711" width="100px;" alt="justStarNew"/>
+      </a>
+      <br />
+      <a href="https://github.com/justStarNew">justStarNew</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/h4m5t">
         <img src="https://avatars2.githubusercontent.com/u/70065998" width="100px;" alt="h4m5t"/>
       </a>
       <br />
       <a href="https://github.com/h4m5t">h4m5t</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jonbaer">
-        <img src="https://avatars2.githubusercontent.com/u/13155" width="100px;" alt="jonbaer"/>
-      </a>
-      <br />
-      <a href="https://github.com/jonbaer">Jon Baer</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Paladinhanxiao">
-        <img src="https://avatars2.githubusercontent.com/u/19170275" width="100px;" alt="Paladinhanxiao"/>
-      </a>
-      <br />
-      <a href="https://github.com/Paladinhanxiao">含笑</a>
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得16,881次赞同，2,129次喜欢，10,039次收藏，2,803个关注
+获得16,907次赞同，2,132次喜欢，10,056次收藏，2,805个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
