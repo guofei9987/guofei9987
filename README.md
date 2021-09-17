@@ -81,6 +81,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/SingularisArt">
+        <img src="https://avatars2.githubusercontent.com/u/57925294" width="100px;" alt="SingularisArt"/>
+      </a>
+      <br />
+      <a href="https://github.com/SingularisArt">Hashem A. Damrah</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/PeterDing">
         <img src="https://avatars2.githubusercontent.com/u/670690" width="100px;" alt="PeterDing"/>
       </a>
@@ -122,13 +129,6 @@
       <br />
       <a href="https://github.com/justStarNew">justStarNew</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/h4m5t">
-        <img src="https://avatars2.githubusercontent.com/u/70065998" width="100px;" alt="h4m5t"/>
-      </a>
-      <br />
-      <a href="https://github.com/h4m5t">h4m5t</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得16,928次赞同，2,134次喜欢，10,077次收藏，2,811个关注
+获得16,937次赞同，2,135次喜欢，10,084次收藏，2,812个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
