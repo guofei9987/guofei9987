@@ -65,18 +65,18 @@
       <a href="https://github.com/snowwhite-boss">Snow White</a>
     </td>
     <td align="center">
-      <a href="https://github.com/losfair">
-        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
-      </a>
-      <br />
-      <a href="https://github.com/losfair">Heyang Zhou</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/SingularisArt">
         <img src="https://avatars2.githubusercontent.com/u/57925294" width="100px;" alt="SingularisArt"/>
       </a>
       <br />
       <a href="https://github.com/SingularisArt">Hashem A. Damrah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/losfair">
+        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
+      </a>
+      <br />
+      <a href="https://github.com/losfair">Heyang Zhou</a>
     </td>
   </tr>
   <tr>
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得16,986次赞同，2,142次喜欢，10,133次收藏，2,821个关注
+获得16,988次赞同，2,142次喜欢，10,137次收藏，2,821个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
