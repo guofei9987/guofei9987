@@ -65,21 +65,12 @@
       <a href="https://github.com/snowwhite-boss">Snow White</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SingularisArt">
-        <img src="https://avatars2.githubusercontent.com/u/57925294" width="100px;" alt="SingularisArt"/>
-      </a>
-      <br />
-      <a href="https://github.com/SingularisArt">Hashem A. Damrah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/losfair">
         <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
       </a>
       <br />
       <a href="https://github.com/losfair">Heyang Zhou</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tom0li">
         <img src="https://avatars2.githubusercontent.com/u/23234555" width="100px;" alt="tom0li"/>
@@ -87,6 +78,8 @@
       <br />
       <a href="https://github.com/tom0li">tom0li</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/PeterDing">
         <img src="https://avatars2.githubusercontent.com/u/670690" width="100px;" alt="PeterDing"/>
@@ -129,6 +122,13 @@
       <br />
       <a href="https://github.com/justStarNew">justStarNew</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/h4m5t">
+        <img src="https://avatars2.githubusercontent.com/u/70065998" width="100px;" alt="h4m5t"/>
+      </a>
+      <br />
+      <a href="https://github.com/h4m5t">h4m5t</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得17,001次赞同，2,144次喜欢，10,150次收藏，2,823个关注
+获得17,008次赞同，2,145次喜欢，10,154次收藏，2,823个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
