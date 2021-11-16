@@ -123,11 +123,11 @@
       <a href="https://github.com/justStarNew">justStarNew</a>
     </td>
     <td align="center">
-      <a href="https://github.com/h4m5t">
-        <img src="https://avatars2.githubusercontent.com/u/70065998" width="100px;" alt="h4m5t"/>
+      <a href="https://github.com/Paladinhanxiao">
+        <img src="https://avatars2.githubusercontent.com/u/19170275" width="100px;" alt="Paladinhanxiao"/>
       </a>
       <br />
-      <a href="https://github.com/h4m5t">h4m5t</a>
+      <a href="https://github.com/Paladinhanxiao">含笑</a>
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得17,480次赞同，2,225次喜欢，10,574次收藏，2,929个关注
+获得17,500次赞同，2,226次喜欢，10,588次收藏，2,933个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
