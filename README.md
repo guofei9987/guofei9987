@@ -109,18 +109,18 @@
       <a href="https://github.com/liushooter">Shooter</a>
     </td>
     <td align="center">
-      <a href="https://github.com/java-aodeng">
-        <img src="https://avatars2.githubusercontent.com/u/35907367" width="100px;" alt="java-aodeng"/>
-      </a>
-      <br />
-      <a href="https://github.com/java-aodeng">低调小熊猫</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/justStarNew">
         <img src="https://avatars2.githubusercontent.com/u/18233711" width="100px;" alt="justStarNew"/>
       </a>
       <br />
       <a href="https://github.com/justStarNew">justStarNew</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/java-aodeng">
+        <img src="https://avatars2.githubusercontent.com/u/35907367" width="100px;" alt="java-aodeng"/>
+      </a>
+      <br />
+      <a href="https://github.com/java-aodeng">低调小熊猫</a>
     </td>
     <td align="center">
       <a href="https://github.com/Paladinhanxiao">
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得17,500次赞同，2,226次喜欢，10,588次收藏，2,933个关注
+获得17,519次赞同，2,231次喜欢，10,594次收藏，2,937个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
