@@ -37,6 +37,13 @@
       <a href="https://github.com/521xueweihan">削微寒</a>
     </td>
     <td align="center">
+      <a href="https://github.com/esin">
+        <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
+      </a>
+      <br />
+      <a href="https://github.com/esin">Andrey Esin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/wangshub">
         <img src="https://avatars2.githubusercontent.com/u/20924010" width="100px;" alt="wangshub"/>
       </a>
@@ -49,6 +56,13 @@
       </a>
       <br />
       <a href="https://github.com/fly51fly">爱可可-爱生活</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snowwhite-boss">
+        <img src="https://avatars2.githubusercontent.com/u/74522790" width="100px;" alt="snowwhite-boss"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowwhite-boss">Snow White</a>
     </td>
     <td align="center">
       <a href="https://github.com/losfair">
@@ -64,6 +78,8 @@
       <br />
       <a href="https://github.com/tom0li">tom0li</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/PeterDing">
         <img src="https://avatars2.githubusercontent.com/u/670690" width="100px;" alt="PeterDing"/>
@@ -72,15 +88,6 @@
       <a href="https://github.com/PeterDing">Peter Ding</a>
     </td>
     <td align="center">
-      <a href="https://github.com/toricode">
-        <img src="https://avatars2.githubusercontent.com/u/59090883" width="100px;" alt="toricode"/>
-      </a>
-      <br />
-      <a href="https://github.com/toricode">toricode</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/wmathor">
         <img src="https://avatars2.githubusercontent.com/u/32392878" width="100px;" alt="wmathor"/>
       </a>
@@ -88,11 +95,11 @@
       <a href="https://github.com/wmathor">mathor</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Tim2906">
-        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
+      <a href="https://github.com/toricode">
+        <img src="https://avatars2.githubusercontent.com/u/59090883" width="100px;" alt="toricode"/>
       </a>
       <br />
-      <a href="https://github.com/Tim2906">Tim</a>
+      <a href="https://github.com/toricode">toricode</a>
     </td>
     <td align="center">
       <a href="https://github.com/liushooter">
@@ -102,32 +109,25 @@
       <a href="https://github.com/liushooter">Shooter</a>
     </td>
     <td align="center">
-      <a href="https://github.com/h4m5t">
-        <img src="https://avatars2.githubusercontent.com/u/70065998" width="100px;" alt="h4m5t"/>
+      <a href="https://github.com/justStarNew">
+        <img src="https://avatars2.githubusercontent.com/u/18233711" width="100px;" alt="justStarNew"/>
       </a>
       <br />
-      <a href="https://github.com/h4m5t">h4m5t</a>
+      <a href="https://github.com/justStarNew">justStarNew</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jonbaer">
-        <img src="https://avatars2.githubusercontent.com/u/13155" width="100px;" alt="jonbaer"/>
+      <a href="https://github.com/java-aodeng">
+        <img src="https://avatars2.githubusercontent.com/u/35907367" width="100px;" alt="java-aodeng"/>
       </a>
       <br />
-      <a href="https://github.com/jonbaer">Jon Baer</a>
+      <a href="https://github.com/java-aodeng">低调小熊猫</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vra">
-        <img src="https://avatars2.githubusercontent.com/u/5562395" width="100px;" alt="vra"/>
+      <a href="https://github.com/Paladinhanxiao">
+        <img src="https://avatars2.githubusercontent.com/u/19170275" width="100px;" alt="Paladinhanxiao"/>
       </a>
       <br />
-      <a href="https://github.com/vra">Yunfeng Wang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/thieu1995">
-        <img src="https://avatars2.githubusercontent.com/u/12763861" width="100px;" alt="thieu1995"/>
-      </a>
-      <br />
-      <a href="https://github.com/thieu1995">Nguyen Van Thieu</a>
+      <a href="https://github.com/Paladinhanxiao">含笑</a>
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得16,432次赞同，2,034次喜欢，9,437次收藏，2,696个关注
+获得17,546次赞同，2,236次喜欢，10,617次收藏，2,945个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
