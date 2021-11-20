@@ -123,11 +123,11 @@
       <a href="https://github.com/java-aodeng">低调小熊猫</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Paladinhanxiao">
-        <img src="https://avatars2.githubusercontent.com/u/19170275" width="100px;" alt="Paladinhanxiao"/>
+      <a href="https://github.com/rorypeck">
+        <img src="https://avatars2.githubusercontent.com/u/3307568" width="100px;" alt="rorypeck"/>
       </a>
       <br />
-      <a href="https://github.com/Paladinhanxiao">含笑</a>
+      <a href="https://github.com/rorypeck">Angie</a>
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得17,546次赞同，2,236次喜欢，10,617次收藏，2,945个关注
+获得17,557次赞同，2,238次喜欢，10,626次收藏，2,945个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
