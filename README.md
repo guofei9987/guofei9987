@@ -8,7 +8,7 @@
 
 
 - 🔭 目前在蚂蚁集团/天堑实验室/算法专家
-- 🌱 热爱技术：[技术博客](https://www.guofei.site/) 累积 372 篇
+- 🌱 热爱技术：[技术博客](https://www.guofei.site/) 累积 381 篇
 - 🤔 喜欢读书：[读书笔记](https://www.guofei.site/reading/#/) 53万字
 - ⚡ one of 121 [authors](https://github.com/scipy/scipy/issues/7798) in [scipy 1.0.0](https://github.com/scipy/scipy/releases/tag/v1.0.0)
 - 🍵 [Journal of Finance and Accounting](http://www.sciencepublishinggroup.com/journal/index?journalid=171) **[审稿员](https://www.guofei.site/pages/certification.html#Reviewer)**
@@ -25,9 +25,11 @@
 [![fourier_artist](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=fourier_artist&theme=radical)](https://github.com/guofei9987/fourier_artist)
 -------------------
 
-#### :sparkles: My Followers
+---------------------
 
-<!--START_SECTION:top-followers-->
+<details>
+  <summary>✨  My Followers</summary>
+
 <table>
   <tr>
     <td align="center">
@@ -133,6 +135,11 @@
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+<br>
+</details>
+<!--START_SECTION:top-followers-->
+
 
 <!--
 ### Hi there 👋
