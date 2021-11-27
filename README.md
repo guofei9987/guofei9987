@@ -116,18 +116,18 @@
       <a href="https://github.com/justStarNew">justStarNew</a>
     </td>
     <td align="center">
-      <a href="https://github.com/java-aodeng">
-        <img src="https://avatars2.githubusercontent.com/u/35907367" width="100px;" alt="java-aodeng"/>
-      </a>
-      <br />
-      <a href="https://github.com/java-aodeng">低调小熊猫</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rorypeck">
         <img src="https://avatars2.githubusercontent.com/u/3307568" width="100px;" alt="rorypeck"/>
       </a>
       <br />
       <a href="https://github.com/rorypeck">Angie</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/java-aodeng">
+        <img src="https://avatars2.githubusercontent.com/u/35907367" width="100px;" alt="java-aodeng"/>
+      </a>
+      <br />
+      <a href="https://github.com/java-aodeng">低调小熊猫</a>
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得17,625次赞同，2,254次喜欢，10,694次收藏，2,968个关注
+获得17,632次赞同，2,256次喜欢，10,696次收藏，2,972个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
