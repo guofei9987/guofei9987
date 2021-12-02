@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <summary>💬 More...</summary>
     <a href="https://www.zhihu.com/people/guo-fei-16-12">知乎</a>：
       <!--START_SECTION:zhihu-followers-->
-获得17,684次赞同，2,265次喜欢，10,742次收藏，2,990个关注
+获得17,695次赞同，2,268次喜欢，10,755次收藏，2,997个关注
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
