@@ -160,3 +160,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:zhihu-followers-->
   <br>
 </details>
+
+
+我的公众号：  
+![](qr_gongzhonghao.jpg)
