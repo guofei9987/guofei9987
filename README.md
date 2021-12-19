@@ -20,6 +20,7 @@
 
 [![scikit-opt](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=scikit-opt&theme=radical)](https://github.com/guofei9987/scikit-opt)
 [![blind_watermark](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=blind_watermark&theme=radical)](https://github.com/guofei9987/blind_watermark)
+[![text_blind_watermark](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=text_blind_watermark&theme=radical)](https://github.com/guofei9987/text_blind_watermark)
 [![guofei9987.github.io](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=guofei9987.github.io&theme=radical)](https://github.com/guofei9987/guofei9987.github.io)
 [![fourier_artist](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=fourier_artist&theme=radical)](https://github.com/guofei9987/fourier_artist)
 -------------------
