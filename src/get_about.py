@@ -7,5 +7,5 @@ r = requests.get(about_url)
 soup = BeautifulSoup(r.text, 'lxml')
 
 about = soup.find(name='div', attrs={"id": "page-content"})
-with open('README2.md', 'w') as f:
+with open('README.md', 'w') as f:
     f.write(about.decode_contents())
