@@ -7,14 +7,14 @@
 <a href="https://www.guofei.site/2019/08/31/github_star_counter.html"><img align="right" alt="guofei9987's github stats" width="40%" src="https://github-profile-trophy.vercel.app/?username=guofei9987&title=Stars,Followers&row=1&column=2"></a>
 
 
-- 🔭 目前在蚂蚁集团/天堑实验室/算法专家
-- 🌱 热爱技术：[技术博客](https://www.guofei.site/) 累积 381 篇
-- 🤔 喜欢读书：[读书笔记](https://www.guofei.site/reading/#/) 53万字
-- ⚡ one of 121 [authors](https://github.com/scipy/scipy/issues/7798) in [scipy 1.0.0](https://github.com/scipy/scipy/releases/tag/v1.0.0)
+- 👯 目前在蚂蚁集团/天堑实验室/算法专家
+- 🔭 热爱技术：[技术博客](https://www.guofei.site/) 累积 <img alt="Blog Counts" src="/pages/blog_cnt.svg"> 篇
+- 📖 喜欢读书：[读书笔记](https://www.guofei.site/reading/#/) 53万字
+- 🤔 one of 121 [authors](https://github.com/scipy/scipy/issues/7798) in [scipy 1.0.0](https://github.com/scipy/scipy/releases/tag/v1.0.0)
 - 🍵 [Journal of Finance and Accounting](http://www.sciencepublishinggroup.com/journal/index?journalid=171) **[审稿员](https://www.guofei.site/pages/certification.html#Reviewer)**
 - 🏃 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>
 
-<!-- - 👯 历史工作经历：京东集团Y事业部（动态定价算法） -->
+<!-- - 🌱 历史工作经历：京东集团Y事业部（动态定价算法） -->
 
 -------------------
 
