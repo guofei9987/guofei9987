@@ -8,7 +8,7 @@
 
 
 - 👯 目前在蚂蚁集团/天堑实验室/算法专家
-- 🔭 热爱技术：[技术博客](https://www.guofei.site/) 累积 <img alt="Blog Counts" src="/pages/blog_cnt.svg"> 篇
+- 🔭 热爱技术：[技术博客](https://www.guofei.site/) 累积 <img alt="Blog Counts" src="https://www.guofei.site/pages/blog_cnt.svg"> 篇
 - 📖 喜欢读书：[读书笔记](https://www.guofei.site/reading/#/) 53万字
 - 🤔 one of 121 [authors](https://github.com/scipy/scipy/issues/7798) in [scipy 1.0.0](https://github.com/scipy/scipy/releases/tag/v1.0.0)
 - 🍵 [Journal of Finance and Accounting](http://www.sciencepublishinggroup.com/journal/index?journalid=171) **[审稿员](https://www.guofei.site/pages/certification.html#Reviewer)**
