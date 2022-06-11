@@ -25,6 +25,12 @@
 [![fourier_artist](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=fourier_artist&theme=radical)](https://github.com/guofei9987/fourier_artist)
 -------------------
 
+I contributed:
+
+[![scipy](https://github-readme-stats.vercel.app/api/pin/?username=scipy&repo=scipy&theme=radical)](https://github.com/scipy/scipy)
+
+[![statsmodels](https://github-readme-stats.vercel.app/api/pin/?username=statsmodels&repo=statsmodels&theme=radical)](https://github.com/guofei9987/statsmodels)
+
 ---------------------
 
 <details>
