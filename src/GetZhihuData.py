@@ -39,7 +39,6 @@ print(zhihu2)
 
 with open('zhihu.svg', 'w') as svg:
     svg.write(f'''<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="510" height="20" role="img">
-  <text x="0" y="15" >知乎
-  {zhihu1}
+  <text x="0" y="15" >知乎{zhihu1}
   </text>
 </svg>''')
