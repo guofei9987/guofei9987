@@ -3,9 +3,6 @@ import requests
 import re
 import sys
 
-handle = sys.argv[1]
-token = sys.argv[2]
-readmePath = sys.argv[3]
 
 # %%
 # https://github.com/egrcc/zhihu-python
@@ -35,19 +32,13 @@ print(follows[1].text)  # 关注
 
 agree, like, collection = re.findall('[0-9,]+', stars[1].text)
 
-zhihu = '获得{}次赞同/ {}次喜欢/ {}次收藏/ {}个关注'.format(agree, like, collection, follows[1].text)
+zhihu1 = '获得{}次赞同，{}次收藏，{}个关注'.format(agree, collection, follows[1].text)
+zhihu2 = '获得{}次赞同/{}次喜欢/ {}次收藏/ {}个关注'.format(agree, like, collection, follows[1].text)
 
-with open(readmePath, "r") as readme:
-    content = readme.read()
-
-newContent = re.sub(r"(?<=<!\-\-START_SECTION:zhihu\-followers\-\->)[\s\S]*(?=<!\-\-END_SECTION:zhihu\-followers\-\->)",
-                    f"\n{zhihu}\n", content)
-
-with open(readmePath, "w") as readme:
-    readme.write(newContent)
+print(zhihu2)
 
 with open('zhihu.svg', 'w') as svg:
     svg.write(f'''<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="510" height="20" role="img">
-  <text x="0" y="15" >知乎{zhihu}
+  <text x="0" y="15" >知乎{zhihu1}
   </text>
 </svg>''')
