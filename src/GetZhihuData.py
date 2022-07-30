@@ -38,7 +38,7 @@ zhihu2 = '获得{}次赞同/{}次喜欢/ {}次收藏/ {}个关注'.format(agree,
 print(zhihu2)
 
 with open('zhihu.svg', 'w') as svg:
-    svg.write(f'''<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="510" height="20" role="img">
+    svg.write(f'''<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="380" height="20" role="img">
   <text x="0" y="15" >知乎{zhihu1}
   </text>
 </svg>''')
