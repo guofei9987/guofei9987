@@ -21,7 +21,7 @@ r = requests.get(url, headers=headers, verify=False)
 soup = BeautifulSoup(r.content, "lxml")
 
 # %%
-stars = soup.find_all(name='div', attrs={'class': 'css-vurnku'})
+stars = soup.find_all(name='div', attrs={'class': 'css-1jf3292'})
 print(stars[1].text)  # 点赞、喜欢、收藏
 
 follows = soup.find_all(name='strong', attrs={'class': 'NumberBoard-itemValue'})
