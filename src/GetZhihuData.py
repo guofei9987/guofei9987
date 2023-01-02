@@ -42,3 +42,18 @@ with open('zhihu.svg', 'w') as svg:
   <text x="0" y="15" style="fill:red">知乎{zhihu1}
   </text>
 </svg>''')
+
+
+#%%更新json
+import json
+with open('achievement.json', 'r') as f:
+    achievement = json.load(f)
+
+achievement['zhihu_agree'] = agree
+achievement['zhihu_like'] = like
+achievement['zhihu_collection'] = collection
+achievement['zhihu_follows'] = follows[1].text
+
+
+with open('achievement.json', 'w') as f:
+    json.dump(achievement, f, ensure_ascii=False, indent='')
