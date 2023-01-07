@@ -1,9 +1,10 @@
 {
-"book_cnt": 242,
 "zhihu_agree": "19,535",
 "zhihu_like": "2,806",
 "zhihu_collection": "11,654",
 "zhihu_follows": "3,719",
-"reading_words": "60.8万字",
-"blog_cnt": "388"
+"cnt_blog": 388,
+"cnt_book": 242,
+"cnt_reading_words_precision": 608470,
+"cnt_reading_words": "60.8万字"
 }

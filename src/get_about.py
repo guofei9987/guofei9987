@@ -16,9 +16,9 @@ title: 关于
 ---
 
 ''', '') \
-    .replace('{{ site.posts.size }}', achievement['cnt_blog']) \
-    .replace('{{ site.data.cnt_reading_words.cnt_reading_words }}', achievement['cnt_reading_words']). \
-    replace('{{ site.data.book_list.size }}', 'cnt_book') \
+    .replace('{{ site.posts.size }}', str(achievement['cnt_blog'])) \
+    .replace('{{ site.data.cnt_reading_words.cnt_reading_words }}', str(achievement['cnt_reading_words'])). \
+    replace('{{ site.data.book_list.size }}', str(achievement['cnt_book'])) \
     .replace('''我的项目：
 
 <table>
