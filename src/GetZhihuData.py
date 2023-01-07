@@ -20,14 +20,14 @@ url = 'https://www.zhihu.com/people/guo-fei-16-12'
 r = requests.get(url, headers=headers, verify=False)
 soup = BeautifulSoup(r.content, "lxml")
 
-# %%
+# %%获取
 stars = soup.find_all(name='div', attrs={'class': 'css-1jf3292'})
 print(stars[1].text)  # 点赞、喜欢、收藏
 
 follows = soup.find_all(name='strong', attrs={'class': 'NumberBoard-itemValue'})
 print(follows[1].text)  # 关注
 
-# %%
+# %%写入到svg
 
 
 agree, like, collection = re.findall('[0-9,]+', stars[1].text)
@@ -44,7 +44,7 @@ with open('zhihu.svg', 'w') as svg:
 </svg>''')
 
 
-#%%更新json
+#%%写入到json
 import json
 with open('achievement.json', 'r') as f:
     achievement = json.load(f)

@@ -22,8 +22,8 @@ jobs:
       - name: Update README
         run: |
           python src/GetZhihuData.py
+          python src/get_data.py
           python src/get_about.py
-          python src/get_read_cnt.py
           python src/put_to_svg.py
       - name: Commit changes
         run: |
