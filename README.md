@@ -8,7 +8,7 @@
 
 
 - 👯 目前在蚂蚁集团-天堑实验室任算法专家。
-- 👆曾任：京东集团-Y事业部动态定价算法专家，中体彩彩票运营管理有限公司竞猜类彩票建模师。某私募基金分析员。银行实习员工。
+- 👆曾任：京东集团-Y事业部动态定价算法专家。中体彩彩票运营管理有限公司-竞猜类彩票建模师。某私募基金分析员。某银行实习员工。
 - 🧮 热爱算法和开源。2021年，“毅力号”携带的“才智号”在火星起飞，实现了[人类首次在另一个星球的动力飞行](https://github.com/readme/featured/nasa-ingenuity-helicopter)，本人因其中的开源贡献被 NASA 授予 [徽章](https://github.com/guofei9987?achievement=mars-2020-contributor&tab=achievements)
 - 🔭 技术积累：[技术博客](https://www.guofei.site/) 累积 388 篇
 - 📖 喜欢读书：[读书笔记](https://www.guofei.site/reading/#/) 60.8万字，读书 242 本
