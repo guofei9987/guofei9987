@@ -11,38 +11,22 @@
 <li>🏃 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li>📫 <a href="https://www.zhihu.com/people/guo-fei-16-12/answers/by_votes" target="_blank"><img alt="Blog Counts" src="https://www.guofei.site/guofei9987/zhihu.svg"/></a></li>
 </ul>
-<p><img alt="guofei's stats" src="https://www.guofei.site/pages/trophy.svg"/></p>
-<object data="https://www.guofei.site/pages/trophy.svg">
-
--------------------
-
-我的项目：
-
-[![scikit-opt](https://www.guofei.site/public/icon/scikit-opt.svg)](https://github.com/guofei9987/scikit-opt)
-[![blind_watermark](https://www.guofei.site/public/icon/blind_watermark.svg)](https://github.com/guofei9987/blind_watermark)
-[![text_blind_watermark](https://www.guofei.site/public/icon/text_blind_watermark.svg)](https://github.com/guofei9987/text_blind_watermark)
-[![guofei9987.github.io](https://www.guofei.site/public/icon/guofei9987.github.io.svg)](https://github.com/guofei9987/guofei9987.github.io)
-[![fourier_artist](https://www.guofei.site/public/icon/fourier_artist.svg)](https://github.com/guofei9987/fourier_artist)
-[![pyLSHash](https://www.guofei.site/public/icon/pyLSHash.svg)](https://github.com/guofei9987/pyLSHash)
-[![github_star_counter](https://www.guofei.site/public/icon/github_star_counter.svg)](https://github.com/guofei9987/github_star_counter)
-[![plot2svg](https://www.guofei.site/public/icon/plot2svg.svg)](https://github.com/guofei9987/plot2svg)
-
-
-
--------------------
-
-I contributed to:
-
-[![scipy](https://github-readme-stats.vercel.app/api/pin/?username=scipy&amp;repo=scipy&amp;theme=radical)](https://github.com/scipy/scipy)
-[![statsmodels](https://github-readme-stats.vercel.app/api/pin/?username=statsmodels&amp;repo=statsmodels&amp;theme=radical)](https://github.com/guofei9987/statsmodels)
-
----------------------
-
-
-
-如何找到我：  
-
-[<i class="fa fa-github fa-lg" style="color:#16a095;font-size:70px;"></i>](https://github.com/guofei9987/)
-
-![](http://www.guofei.site/public/donate/qr_wechat.jpg)
-</object>
+<object data="https://www.guofei.site/pages/trophy.svg"></object>
+<hr/>
+<p>我的项目：</p>
+<p><a href="https://github.com/guofei9987/scikit-opt"><img alt="scikit-opt" src="https://www.guofei.site/public/icon/scikit-opt.svg"/></a>
+<a href="https://github.com/guofei9987/blind_watermark"><img alt="blind_watermark" src="https://www.guofei.site/public/icon/blind_watermark.svg"/></a>
+<a href="https://github.com/guofei9987/text_blind_watermark"><img alt="text_blind_watermark" src="https://www.guofei.site/public/icon/text_blind_watermark.svg"/></a>
+<a href="https://github.com/guofei9987/guofei9987.github.io"><img alt="guofei9987.github.io" src="https://www.guofei.site/public/icon/guofei9987.github.io.svg"/></a>
+<a href="https://github.com/guofei9987/fourier_artist"><img alt="fourier_artist" src="https://www.guofei.site/public/icon/fourier_artist.svg"/></a>
+<a href="https://github.com/guofei9987/pyLSHash"><img alt="pyLSHash" src="https://www.guofei.site/public/icon/pyLSHash.svg"/></a>
+<a href="https://github.com/guofei9987/github_star_counter"><img alt="github_star_counter" src="https://www.guofei.site/public/icon/github_star_counter.svg"/></a>
+<a href="https://github.com/guofei9987/plot2svg"><img alt="plot2svg" src="https://www.guofei.site/public/icon/plot2svg.svg"/></a></p>
+<hr/>
+<p>I contributed to:</p>
+<p><a href="https://github.com/scipy/scipy"><img alt="scipy" src="https://github-readme-stats.vercel.app/api/pin/?username=scipy&amp;repo=scipy&amp;theme=radical"/></a>
+<a href="https://github.com/guofei9987/statsmodels"><img alt="statsmodels" src="https://github-readme-stats.vercel.app/api/pin/?username=statsmodels&amp;repo=statsmodels&amp;theme=radical"/></a></p>
+<hr/>
+<p>如何找到我：</p>
+<p><a href="https://github.com/guofei9987/"><i class="fa fa-github fa-lg" style="color:#16a095;font-size:70px;"></i></a></p>
+<p><img alt="" src="http://www.guofei.site/public/donate/qr_wechat.jpg"/></p>
