@@ -11,79 +11,17 @@
 <li>🏃 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li>📫 <a href="https://www.zhihu.com/people/guo-fei-16-12/answers/by_votes" target="_blank"><img alt="Blog Counts" src="https://www.guofei.site/guofei9987/zhihu.svg"/></a></li>
 </ul>
-<p><a href="https://www.guofei.site/"><img alt="guofei's stats" src="https://www.guofei.site/pages/trophy.svg"/></a></p>
+<p>img  alt=”guofei’s stats”  src=”https://www.guofei.site/pages/trophy.svg”&gt;</p>
 <hr/>
 <p>我的项目：</p>
-<table>
-<tr>
-<th>Project</th>
-<th>Star</th>
-<th>Fork</th>
-<th>description</th>
-</tr>
-<tr>
-<td><a href="https://github.com/guofei9987/scikit-opt">scikit-opt</a></td>
-<td>☆3763</td>
-<td><img alt="fork:" src="https://www.guofei.site/public/icon/fork.svg"/>845</td>
-<td>Genetic Algorithm, Particle...</td>
-</tr>
-<tr>
-<td><a href="https://github.com/guofei9987/blind_watermark">blind_watermark</a></td>
-<td>☆2699</td>
-<td><img alt="fork:" src="https://www.guofei.site/public/icon/fork.svg"/>363</td>
-<td>Blind&amp;Invisible Watermark ，...</td>
-</tr>
-<tr>
-<td><a href="https://github.com/guofei9987/text_blind_watermark">text_blind_watermark</a></td>
-<td>☆166</td>
-<td><img alt="fork:" src="https://www.guofei.site/public/icon/fork.svg"/>26</td>
-<td>文本盲水印：把信息隐匿到文本中，put blind w...</td>
-</tr>
-<tr>
-<td><a href="https://github.com/guofei9987/guofei9987.github.io">guofei9987.github.io</a></td>
-<td>☆44</td>
-<td><img alt="fork:" src="https://www.guofei.site/public/icon/fork.svg"/>28</td>
-<td>个人博客，欢迎fork</td>
-</tr>
-<tr>
-<td><a href="https://github.com/guofei9987/fourier_artist">fourier_artist</a></td>
-<td>☆24</td>
-<td><img alt="fork:" src="https://www.guofei.site/public/icon/fork.svg"/>2</td>
-<td>用几个圆画任意图（傅里叶变换）</td>
-</tr>
-<tr>
-<td><a href="https://github.com/guofei9987/github_star_counter">github_star_counter</a></td>
-<td>☆19</td>
-<td><img alt="fork:" src="https://www.guofei.site/public/icon/fork.svg"/>5</td>
-<td>Count a GitHub user's total...</td>
-</tr>
-<tr>
-<td><a href="https://github.com/guofei9987/pyLSHash">pyLSHash</a></td>
-<td>☆14</td>
-<td><img alt="fork:" src="https://www.guofei.site/public/icon/fork.svg"/>3</td>
-<td>A Python implementation of ...</td>
-</tr>
-<tr>
-<td><a href="https://github.com/guofei9987/vulgar_language_generator">vulgar_language_generator</a></td>
-<td>☆13</td>
-<td><img alt="fork:" src="https://www.guofei.site/public/icon/fork.svg"/>3</td>
-<td>俗不可耐语言生成器（中文）-俗不可耐的古风诗歌生成器，...</td>
-</tr>
-</table>
-<hr/>
-<p><a href="https://github.com/guofei9987/scikit-opt"><img alt="scikit-opt" src="https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&amp;repo=scikit-opt&amp;theme=radical"/></a>
-<a href="https://github.com/guofei9987/blind_watermark"><img alt="blind_watermark" src="https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&amp;repo=blind_watermark&amp;theme=radical"/></a>
-<a href="https://github.com/guofei9987/text_blind_watermark"><img alt="text_blind_watermark" src="https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&amp;repo=text_blind_watermark&amp;theme=radical"/></a>
-<a href="https://github.com/guofei9987/guofei9987.github.io"><img alt="guofei9987.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&amp;repo=guofei9987.github.io&amp;theme=radical"/></a>
-<a href="https://github.com/guofei9987/fourier_artist"><img alt="fourier_artist" src="https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&amp;repo=fourier_artist&amp;theme=radical"/></a>
-<a href="https://github.com/guofei9987/pyLSHash"><img alt="pyLSHash" src="https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&amp;repo=pyLSHash&amp;theme=radical"/></a>
-<a href="https://github.com/guofei9987/github_star_counter"><img alt="github_star_counter" src="https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&amp;repo=github_star_counter&amp;theme=radical"/></a>
-<a href="https://github.com/guofei9987/plot2svg"><img alt="plot2svg" src="https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&amp;repo=plot2svg&amp;theme=radical"/></a></p>
-<hr/>
-<p><a href="https://github.com/guofei9987/scikit-opt">scikit-opt</a>
-3763 <br/>
-Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman) <br/>
-845</p>
+<p><a href="https://github.com/guofei9987/scikit-opt"><img alt="scikit-opt" src="https://www.guofei.site/public/icon/scikit-opt.svg"/></a>
+<a href="https://github.com/guofei9987/blind_watermark"><img alt="blind_watermark" src="https://www.guofei.site/public/icon/blind_watermark.svg"/></a>
+<a href="https://github.com/guofei9987/text_blind_watermark"><img alt="text_blind_watermark" src="https://www.guofei.site/public/icon/text_blind_watermark.svg"/></a>
+<a href="https://github.com/guofei9987/guofei9987.github.io"><img alt="guofei9987.github.io" src="https://www.guofei.site/public/icon/guofei9987.github.io.svg"/></a>
+<a href="https://github.com/guofei9987/fourier_artist"><img alt="fourier_artist" src="https://www.guofei.site/public/icon/fourier_artist.svg"/></a>
+<a href="https://github.com/guofei9987/pyLSHash"><img alt="pyLSHash" src="https://www.guofei.site/public/icon/pyLSHash.svg"/></a>
+<a href="https://github.com/guofei9987/github_star_counter"><img alt="github_star_counter" src="https://www.guofei.site/public/icon/github_star_counter.svg"/></a>
+<a href="https://github.com/guofei9987/plot2svg"><img alt="plot2svg" src="https://www.guofei.site/public/icon/plot2svg.svg"/></a></p>
 <hr/>
 <p>I contributed to:</p>
 <p><a href="https://github.com/scipy/scipy"><img alt="scipy" src="https://github-readme-stats.vercel.app/api/pin/?username=scipy&amp;repo=scipy&amp;theme=radical"/></a>

@@ -1,15 +1,17 @@
 {
-"zhihu_agree": "19,535",
+"zhihu_agree": "19,539",
 "zhihu_like": "2,806",
-"zhihu_collection": "11,656",
-"zhihu_follows": "3,719",
+"zhihu_collection": "11,660",
+"zhihu_follows": "3,720",
 "cnt_blog": 388,
 "cnt_book": 242,
 "cnt_reading_words_precision": 608470,
 "cnt_reading_words": "60.8万字",
-"github_total_star": 6819,
-"github_total_fork": 1298,
-"followers": "666",
-"following": "13",
-"github_total_star_str": "6.8k"
+"github_total_star": 6818,
+"github_total_fork": 1299,
+"followers": 667,
+"following": 13,
+"github_total_star_str": "6.8k",
+"total_star": 6823,
+"total_star_str": "6.8k"
 }
