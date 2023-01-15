@@ -5,7 +5,7 @@
 <li>👆曾任：京东集团-Y事业部动态定价算法专家。中体彩彩票运营管理有限公司-竞猜类彩票建模师。某私募基金分析员。某银行实习员工。</li>
 <li>🧮 热爱算法和开源。2021年，“毅力号”携带的“才智号”在火星起飞，实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，本人因其中的开源贡献被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">徽章</a></li>
 <li>🔭 技术积累：<a href="https://www.guofei.site/">技术博客</a> 累积 388 篇</li>
-<li>📖 喜欢读书：<a href="https://www.guofei.site/reading/#/">读书笔记</a> 60.8万字，读书 242 本</li>
+<li>📖 喜欢读书：<a href="https://www.guofei.site/reading/#/">读书笔记</a> 61.0万字，读书 243 本</li>
 <li>🤔 one of 121 <a href="https://github.com/scipy/scipy/issues/7798">authors</a> in <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a></li>
 <li>📚 学术期刊 <a href="http://www.sciencepublishinggroup.com/journal/index?journalid=171">Journal of Finance and Accounting</a> <strong><a href="https://www.guofei.site/pages/certification.html#Reviewer">审稿员</a></strong></li>
 <li>🏃 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
