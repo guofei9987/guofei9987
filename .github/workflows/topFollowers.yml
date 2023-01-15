@@ -22,9 +22,7 @@ jobs:
       - name: Update README
         run: |
           python src/GetZhihuData.py
-          python src/get_data.py
           python src/get_about.py
-          python src/put_to_svg.py
       - name: Commit changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

@@ -3,7 +3,6 @@ import requests
 import re
 import sys
 
-
 # %%
 # https://github.com/egrcc/zhihu-python
 
@@ -43,9 +42,9 @@ with open('zhihu.svg', 'w') as svg:
   </text>
 </svg>''')
 
-
-#%%写入到json
+# %%写入到json
 import json
+
 with open('achievement.json', 'r') as f:
     achievement = json.load(f)
 
@@ -53,7 +52,6 @@ achievement['zhihu_agree'] = agree
 achievement['zhihu_like'] = like
 achievement['zhihu_collection'] = collection
 achievement['zhihu_follows'] = follows[1].text
-
 
 with open('achievement.json', 'w') as f:
     json.dump(achievement, f, ensure_ascii=False, indent='')
