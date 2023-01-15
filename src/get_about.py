@@ -8,4 +8,6 @@ soup = BeautifulSoup(r.text, 'lxml')
 
 about = soup.find(name='div', attrs={"id": "page-content"})
 with open('README.md', 'w') as f:
-    f.write(about.decode_contents())
+    f.write(about.decode_contents().
+            replace('''<object data="https://www.guofei.site/pages/trophy.svg"></object>''',
+                    '''<img src="https://www.guofei.site/pages/trophy.svg">'''))
