@@ -31,7 +31,7 @@
 <p>如何找到我：</p>
 <p><a href="https://github.com/guofei9987/"><i class="fa fa-github fa-lg" style="color:#16a095;font-size:70px;"></i></a></p>
 <p><a href="https://www.zhihu.com/people/guo-fei-16-12/answers/by_votes">
-<span class="fa-stack fa-lg" style="color:#16a095;font-size:70px;">
+<span class="fa-stack fa-lg" style="color:#16a095;font-size:35px;">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-stack-1x fa-inverse">知</i>
 </span>
