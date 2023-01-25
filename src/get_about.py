@@ -11,4 +11,10 @@ about = soup.find(name='div', attrs={"id": "page-content"})
 with open('README.md', 'w') as f:
     f.write(about.decode_contents().
             replace('''<object data="https://www.guofei.site/pages/trophy.svg"></object>''',
-                    '''<img src="https://www.guofei.site/pages/trophy.svg">'''))
+                    '''<img src="https://www.guofei.site/pages/trophy.svg">''')
+            .replace('''<object data="https://www.guofei.site/guofei9987/zhihu.svg"></object>''',
+                     '''<img alt="Blog Counts" src="https://www.guofei.site/guofei9987/zhihu.svg">''')
+            .replace(
+        '''<span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa  fa-stack-1x fa-inverse">知</i></span>''',
+        '')
+            )
