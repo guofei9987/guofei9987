@@ -1,9 +1,9 @@
 
 <h3 id="hi-there-">Hi there 👋</h3>
 <ul>
-<li>👯 目前在蚂蚁集团-天堑实验室任 算法专家。
+<li>👯 目前在蚂蚁集团-天堑实验室任 <em>算法专家</em>。
     <ul>
-<li>👆曾任：京东集团-Y事业部动态定价 算法专家。中体彩彩票运营管理有限公司-竞猜类彩票建模师。某私募基金分析员。</li>
+<li>👆曾任：京东集团-Y事业部动态定价 <em>算法专家</em>。中体彩彩票运营管理有限公司-竞猜类彩票 <em>建模师</em>。某私募基金 <em>分析员</em>。</li>
 </ul>
 </li>
 <li>🧮 热爱算法和开源。
@@ -17,6 +17,7 @@
     <ul>
 <li>📚 金融类学术期刊 <em><a href="http://www.sciencepublishinggroup.com/journal/index?journalid=171">Journal of Finance and Accounting</a></em> 的 <strong><a href="https://www.guofei.site/pages/certification.html#Reviewer">审稿员</a></strong></li>
 <li>🎓 金融学硕士</li>
+<li>中级经济师</li>
 </ul>
 </li>
 <li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 388 篇</li>
