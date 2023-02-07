@@ -17,12 +17,12 @@
     <ul>
 <li>📚 金融类学术期刊 <em><a href="http://www.sciencepublishinggroup.com/journal/index?journalid=171">Journal of Finance and Accounting</a></em> 的 <strong><a href="https://www.guofei.site/pages/certification.html#Reviewer">审稿员</a></strong></li>
 <li>🎓 金融学硕士</li>
-<li>中级经济师</li>
+<li>📝 中级经济师</li>
 </ul>
 </li>
 <li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 388 篇</li>
-<li>📖 读书 243 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 55.5 万</li>
-<li>🏃 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
+<li>📖 读书 244 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 55.5 万</li>
+<li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li><span class="fa-stack fa-lg" style="color:#16a095;"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">知</i></span> <a href="https://www.zhihu.com/people/guo-fei-16-12/answers/by_votes" target="_blank"><img alt="Blog Counts" src="https://www.guofei.site/guofei9987/zhihu.svg"></a></li>
 </ul>
 <img src="https://www.guofei.site/pages/trophy.svg">
