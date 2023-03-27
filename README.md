@@ -11,7 +11,7 @@
 <li>🚀  我的开源贡献用于“才智号”火星直升机项目，实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，并因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">徽章</a></li>
 <li>🤔 one of 121 <a href="https://github.com/scipy/scipy/issues/7798">authors</a> in <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a></li>
 <li>📃 CDA 持证人</li>
-<li>获得 GitHub Star 共 7263</li>
+<li>获得 GitHub Star 共 7266</li>
 </ul>
 </li>
 <li>📈 懂一点儿金融
@@ -24,7 +24,7 @@
 <li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 395 篇</li>
 <li>📖 读书 246 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 55.5 万</li>
 <li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
-<li><span class="fa-stack fa-lg" style="color:#16a095;"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">知</i></span> <a href="https://www.zhihu.com/people/guo-fei-16-12/answers/by_votes" target="_blank">知乎获得19,910次赞同/11,824次收藏/ 3,944个关注</a></li>
+<li><span class="fa-stack fa-lg" style="color:#16a095;"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">知</i></span> <a href="https://www.zhihu.com/people/guo-fei-16-12/answers/by_votes" target="_blank">知乎获得19,911次赞同/11,827次收藏/ 3,945个关注</a></li>
 </ul>
 <img src="https://www.guofei.site/pages/trophy.svg">
 <!-- 📫 -->
