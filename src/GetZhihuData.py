@@ -45,8 +45,10 @@ with open('zhihu.svg', 'w') as svg:
 # %%写入到json
 import json
 
-with open('achievement.json', 'r') as f:
-    achievement = json.load(f)
+# with open('achievement.json', 'r') as f:
+#     achievement = json.load(f)
+
+achievement = dict()
 
 achievement['zhihu_agree'] = agree
 achievement['zhihu_like'] = like
