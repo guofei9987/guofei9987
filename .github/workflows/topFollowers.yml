@@ -2,7 +2,7 @@ name: Get Top Followers
 
 on:
   schedule:
-    - cron: '10 * * * *'
+    - cron: '0 20 * * *'
   watch:
     types: started
 
