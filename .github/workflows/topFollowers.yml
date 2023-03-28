@@ -21,7 +21,6 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Update README
         run: |
-          python src/GetZhihuData.py
           python src/get_about.py
       - name: Commit changes
         run: |
