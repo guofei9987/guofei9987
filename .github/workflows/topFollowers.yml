@@ -1,4 +1,4 @@
-name: Get Top Followers
+name: Update README
 
 on:
   schedule:
