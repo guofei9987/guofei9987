@@ -24,7 +24,7 @@
 <li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 396 篇</li>
 <li>📖 读书 246 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 55.7 万</li>
 <li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
-<li>📫 <a href="https://www.zhihu.com/people/guo-fei-16-12/answers/by_votes" target="_blank">知乎</a> 获得20k次赞同/12k次收藏/ 4k个关注</li>
+<li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得20k次赞同/12k次收藏/ 4k个关注</li>
 </ul>
 <img src="https://www.guofei.site/pages/trophy.svg">
 <hr/>
@@ -44,7 +44,7 @@
 <hr/>
 <p>如何找到我：</p>
 <p><a href="https://github.com/guofei9987/"><i class="fa fa-github fa-lg" style="color:#16a095;font-size:70px;"></i></a></p>
-<p><a href="https://www.zhihu.com/people/guo-fei-16-12/answers/by_votes">
+<p><a href="https://www.zhihu.com/people/guofei9987/answers/by_votes">
 <span class="fa-stack fa-lg" style="color:#16a095;font-size:35px;">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-stack-1x fa-inverse">知</i>
