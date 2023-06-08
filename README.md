@@ -11,7 +11,7 @@
 <li>🚀  我的开源贡献用于“才智号”火星直升机项目，实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，并因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">徽章</a></li>
 <li>🤔 one of 121 <a href="https://github.com/scipy/scipy/issues/7798">authors</a> in <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a></li>
 <li>📃 CDA 持证人</li>
-<li>获得 GitHub Star 共 7.7k</li>
+<li>获得 GitHub Star 共 7.8k</li>
 </ul>
 </li>
 <li>📈 懂一点儿金融
