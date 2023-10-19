@@ -1,7 +1,7 @@
 
 <h3 id="hi-there-">Hi there 👋</h3>
 <ul>
-<li>👯 目前在蚂蚁集团-天堑实验室任 <em>算法专家</em>。
+<li>👯 目前在蚂蚁集团-天堑实验室 任 <em>算法专家</em>。
     <ul>
 <li>👆曾任：京东集团-Y事业部动态定价 <em>算法专家</em>。中体彩彩票运营管理有限公司-竞猜类彩票 <em>建模师</em>。某私募基金 <em>分析员</em>。</li>
 </ul>
@@ -22,7 +22,7 @@
 </ul>
 </li>
 <li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 403 篇</li>
-<li>📖 读书 254 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 56.9 万</li>
+<li>📖 读书 254 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 56.9 万 字</li>
 <li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得25k次赞同/17k次收藏/ 10k个关注</li>
 </ul>
