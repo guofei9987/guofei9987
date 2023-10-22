@@ -22,7 +22,7 @@
 </ul>
 </li>
 <li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 403 篇</li>
-<li>📖 读书 254 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 56.9 万 字</li>
+<li>📖 读书 255 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 57.0 万 字</li>
 <li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得25k次赞同/17k次收藏/ 10k个关注</li>
 </ul>
@@ -33,7 +33,7 @@
 <a href="https://github.com/guofei9987/blind_watermark"><img alt="blind_watermark" src="https://www.guofei.site/public/icon/blind_watermark.svg"/></a>
 <a href="https://github.com/guofei9987/text_blind_watermark"><img alt="text_blind_watermark" src="https://www.guofei.site/public/icon/text_blind_watermark.svg"/></a>
 <a href="https://github.com/guofei9987/guofei9987.github.io"><img alt="guofei9987.github.io" src="https://www.guofei.site/public/icon/guofei9987.github.io.svg"/></a>
-<a href="https://github.com/guofei9987/fourier_artist"><img alt="fourier_artist" src="https://www.guofei.site/public/icon/fourier_artist.svg"/></a>
+<a href="https://github.com/guofei9987/HideInfo"><img alt="HideInfo" src="https://www.guofei.site/public/icon/HideInfo.svg"/></a>
 <a href="https://github.com/guofei9987/pyLSHash"><img alt="pyLSHash" src="https://www.guofei.site/public/icon/pyLSHash.svg"/></a>
 <a href="https://github.com/guofei9987/github_star_counter"><img alt="github_star_counter" src="https://www.guofei.site/public/icon/github_star_counter.svg"/></a>
 <a href="https://github.com/guofei9987/plot2svg"><img alt="plot2svg" src="https://www.guofei.site/public/icon/plot2svg.svg"/></a></p>
