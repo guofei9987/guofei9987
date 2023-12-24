@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-about_url = 'https://www.guofei.site/about.html'
+about_url = 'https://www.guofei.site/me.html'
 
 r = requests.get(about_url)
 soup = BeautifulSoup(r.text, 'lxml')
