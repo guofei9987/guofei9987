@@ -6,12 +6,14 @@
 <li>👆曾任：京东集团-Y事业部-动态定价 <em>算法专家</em>。中体彩彩票运营管理有限公司-体育竞猜彩票-赔率动态定价 <em>算法工程师</em>。某私募基金 <em>金融分析师</em>。</li>
 </ul>
 </li>
-<li>🧮 热爱算法和开源。
+<li>🧮 热爱算法、数学和开源。
     <ul>
-<li>🚀  我的开源贡献用于“机智号”火星直升机项目，实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，并因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">徽章</a></li>
+<li>🚀  我的开源贡献用于“机智号”火星直升机项目，此项目实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，并因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">徽章</a></li>
 <li>🤔 <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a> 的 121 位 <a href="https://github.com/scipy/scipy/issues/7798">作者</a> 之一
   <!-- - 📃 CDA 持证人 --></li>
-<li>获得 GitHub Star 共 10.5k</li>
+<li>创建的开源项目在 GitHub 共获得 Star 10.5k</li>
+<li>授权算法相关专利 7 篇</li>
+<li>曾获全国数学建模大赛一等奖</li>
 </ul>
 </li>
 <li>📈 懂一点儿金融
