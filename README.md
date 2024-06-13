@@ -24,7 +24,7 @@
 </ul>
 </li>
 <li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 412 篇</li>
-<li>📖 读书 263 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 60.9 万字</li>
+<li>📖 读书 264 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 61.0 万字</li>
 <li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得38k次赞同/21k次收藏/ 1.3 万个关注</li>
 </ul>
