@@ -11,7 +11,7 @@
 <li>🚀  我的开源贡献用在了“机智号”火星直升机项目，此项目实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，并因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">徽章</a></li>
 <li>🤔 <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a> 的 121 位 <a href="https://github.com/scipy/scipy/issues/7798">作者</a> 之一
   <!-- - 📃 CDA 持证人 --></li>
-<li>发起的开源项目在 GitHub 共获得 Star 12.7k</li>
+<li>发起的开源项目在 GitHub 共获得 Star 12.8k</li>
 <li>授权算法相关专利 7 篇</li>
 <li>曾获全国数学建模大赛一等奖</li>
 </ul>
