@@ -14,7 +14,7 @@
 <li>发起的开源项目在 GitHub 共获得 Star 13.2k</li>
 <li>授权算法相关专利 7 篇</li>
 <li>曾获全国数学建模大赛一等奖</li>
-<li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 421 篇</li>
+<li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 422 篇</li>
 </ul>
 </li>
 <li>📈 懂一点儿金融
@@ -24,7 +24,7 @@
 <li>📝 中级经济师</li>
 </ul>
 </li>
-<li>📖 读书 266 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 62.3 万字</li>
+<li>📖 读书 266 本，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 62.2 万字</li>
 <li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得42k次赞同/22k次收藏/ 1.4 万个关注</li>
 </ul>
