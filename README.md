@@ -38,7 +38,7 @@
 <a href="https://github.com/guofei9987/HideInfo"><img alt="HideInfo" src="https://www.guofei.site/public/icon/HideInfo.svg"/></a>
 <a href="https://github.com/guofei9987/pyLSHash"><img alt="pyLSHash" src="https://www.guofei.site/public/icon/pyLSHash.svg"/></a>
 <a href="https://github.com/guofei9987/github_star_counter"><img alt="github_star_counter" src="https://www.guofei.site/public/icon/github_star_counter.svg"/></a>
-<a href="https://github.com/guofei9987/plot2svg"><img alt="plot2svg" src="https://www.guofei.site/public/icon/plot2svg.svg"/></a></p>
+<a href="https://github.com/guofei9987/hidden_watermark"><img alt="hidden_watermark" src="https://www.guofei.site/public/icon/hidden_watermark.svg"/></a></p>
 <hr/>
 <p>I contributed to:</p>
 <p><a href="https://github.com/scipy/scipy"><img alt="scipy" src="https://github-readme-stats.vercel.app/api/pin/?username=scipy&amp;repo=scipy&amp;theme=radical"/></a>
