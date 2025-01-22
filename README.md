@@ -49,4 +49,5 @@
 <p>如何找到我：</p>
 <p><a href="https://github.com/guofei9987/"><img alt="github" src="https://www.guofei.site/public/logo/github.svg"/></a>
 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes"><img alt="zhihu" src="https://www.guofei.site/public/logo/zhihu.svg"/></a>
-<a href="http://www.guofei.site/public/donate/qr_wechat.jpg"><img alt="wechat" src="https://www.guofei.site/public/logo/wechat.svg"/></a></p>
+<a href="http://www.guofei.site/public/donate/qr_wechat.jpg"><img alt="wechat" src="https://www.guofei.site/public/logo/wechat.svg"/></a>
+<a href="mailto:me@guofei.site"><img alt="email" src="https://www.guofei.site/public/logo/email.svg"/></a></p>
