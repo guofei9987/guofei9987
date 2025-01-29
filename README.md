@@ -27,7 +27,7 @@
 <li>📝 中级经济师</li>
 </ul>
 </li>
-<li>📖 读书 <a href="https://www.guofei.site/BookList.html">267 本</a>，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 62.4 万字</li>
+<li>📖 读书 <a href="https://www.guofei.site/BookList.html">267 本</a>，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 62.5 万字</li>
 <li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得42k次赞同/22k次收藏/ 1.4 万个关注</li>
 </ul>
