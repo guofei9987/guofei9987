@@ -17,7 +17,7 @@
 <li>发起的开源项目在 GitHub 共获得 Star 14.1k</li>
 <li>授权算法相关专利 7 篇</li>
 <li>曾获全国数学建模大赛一等奖</li>
-<li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 428 篇</li>
+<li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 427 篇</li>
 </ul>
 </li>
 <li>📈 懂一点儿金融
@@ -31,7 +31,7 @@
 <li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得42k次赞同/22k次收藏/ 1.4 万个关注</li>
 </ul>
-<img src="https://www.guofei.site/pages/trophy.svg">
+<object data="https://www.guofei.site/pages/trophy.svg" style="width: 100%;max-width: 550px;"></object>
 <hr/>
 <p>我发起的开源项目：</p>
 <p><a href="https://github.com/guofei9987/scikit-opt"><img alt="scikit-opt" src="https://www.guofei.site/public/icon/scikit-opt.svg"/></a>
