@@ -31,7 +31,7 @@
 <li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得42k次赞同/22k次收藏/ 1.4 万个关注</li>
 </ul>
-<object data="https://www.guofei.site/pages/trophy.svg" style="width: 100%;max-width: 550px;"></object>
+<img src="https://www.guofei.site/pages/trophy.svg">
 <hr/>
 <p>我发起的开源项目：</p>
 <p><a href="https://github.com/guofei9987/scikit-opt"><img alt="scikit-opt" src="https://www.guofei.site/public/icon/scikit-opt.svg"/></a>
