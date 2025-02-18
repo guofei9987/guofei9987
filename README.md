@@ -52,6 +52,6 @@
 <a href="http://www.guofei.site/public/donate/qr_wechat.jpg"><img alt="wechat" src="https://www.guofei.site/public/logo/wechat.svg"/></a>
 <a href="mailto:me@guofei.site"><img alt="email" src="https://www.guofei.site/public/logo/email.svg"/></a>
 <a href="https://www.guofei.site/" target="_blank">
-<img alt="我的网站" class="logo" height="40" src="https://www.guofei.site/public/about/me.png" style="vertical-align: middle;" width="40"/>
+<img alt="me" class="me" height="40" src="https://www.guofei.site/public/about/me2.png" style="vertical-align: middle;" width="40"/>
 </a></p>
 <p><br/></p>
