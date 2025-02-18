@@ -50,4 +50,8 @@
 <p><a href="https://github.com/guofei9987/"><img alt="github" src="https://www.guofei.site/public/logo/github.svg"/></a>
 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes"><img alt="zhihu" src="https://www.guofei.site/public/logo/zhihu.svg"/></a>
 <a href="http://www.guofei.site/public/donate/qr_wechat.jpg"><img alt="wechat" src="https://www.guofei.site/public/logo/wechat.svg"/></a>
-<a href="mailto:me@guofei.site"><img alt="email" src="https://www.guofei.site/public/logo/email.svg"/></a></p>
+<a href="mailto:me@guofei.site"><img alt="email" src="https://www.guofei.site/public/logo/email.svg"/></a>
+<a href="https://www.guofei.site/" target="_blank">
+<img alt="我的网站" class="logo" height="40" src="https://www.guofei.site/public/about/me.png" style="vertical-align: middle;" width="40"/>
+</a></p>
+<p><br/></p>
