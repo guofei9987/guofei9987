@@ -1,7 +1,7 @@
 
 <h3 id="hi-there-">Hi there 👋</h3>
 <ul>
-<li>👯 工作经历
+<li>💼 工作经历
     <ul>
 <li>2020 - 今，蚂蚁集团-天堑实验室，<strong>算法专家</strong></li>
 <li>2018 - 2020，京东集团-Y事业部-动态定价 <strong>算法专家</strong></li>
@@ -11,13 +11,13 @@
 </li>
 <li>🧮 热爱算法、数学和开源。
     <ul>
-<li>🚀  我的开源贡献用在了“机智号”火星直升机项目，此项目实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，并因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">荣誉徽章</a></li>
+<li>🚀 我的开源贡献用在了“机智号”火星直升机项目，此项目实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，并因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">荣誉徽章</a></li>
 <li>🤔 <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a> 的 121 位 <a href="https://github.com/scipy/scipy/issues/7798">作者</a> 之一
   <!-- - 📃 CDA 持证人 --></li>
-<li>发起的开源项目在 GitHub 共获得 Star 14.1k</li>
-<li>授权算法相关专利 7 篇</li>
-<li>曾获全国数学建模大赛一等奖</li>
-<li>🔭 <a href="https://www.guofei.site/">技术博客</a> 累积 421 篇</li>
+<li>⭐ 发起的开源项目在 GitHub 共获得 Star 14.1k</li>
+<li>📑 授权算法相关专利 7 篇</li>
+<li>🏆 曾获全国数学建模大赛一等奖</li>
+<li>💻 <a href="https://www.guofei.site/">技术博客</a> 累积 420 篇</li>
 </ul>
 </li>
 <li>📈 懂一点儿金融
@@ -27,8 +27,12 @@
 <li>📝 中级经济师</li>
 </ul>
 </li>
-<li>📖 读书 <a href="https://www.guofei.site/BookList.html">267 本</a>，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 63.4 万字</li>
-<li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b></li>
+<li>❤️ 有一些爱好
+    <ul>
+<li>📖 读书 <a href="https://www.guofei.site/BookList.html">267 本</a>，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 63.5 万字</li>
+<li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <a href="/sports.html">1300公里</a></li>
+</ul>
+</li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得42k次赞同/22k次收藏/ 1.4 万个关注</li>
 </ul>
 <img src="https://www.guofei.site/pages/trophy.svg">
