@@ -30,7 +30,7 @@
 <li>❤️ 有一些爱好
     <ul>
 <li>📖 读书 <a href="https://www.guofei.site/BookList.html">267 本</a>，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 63.5 万字</li>
-<li>🤸 爱好运动，能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <a href="/sports.html">1300公里</a></li>
+<li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <a href="/sports.html">1300公里</a></li>
 </ul>
 </li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得42k次赞同/22k次收藏/ 1.4 万个关注</li>
