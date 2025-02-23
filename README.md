@@ -17,7 +17,7 @@
 <li>⭐ 发起的开源项目在 GitHub 共获得 Star 14.1k</li>
 <li>📑 授权算法相关专利 7 篇</li>
 <li>🏆 曾获全国数学建模大赛一等奖</li>
-<li>💻 <a href="https://www.guofei.site/">技术博客</a> 累积 420 篇</li>
+<li>💻 <a href="https://www.guofei.site/">技术博客</a> 累积 421 篇</li>
 </ul>
 </li>
 <li>📈 懂一点儿金融
@@ -29,11 +29,12 @@
 </li>
 <li>❤️ 有一些爱好
     <ul>
-<li>📖 读书 <a href="https://www.guofei.site/BookList.html">267 本</a>，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 63.5 万字</li>
-<li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <a href="/sports.html">1300公里</a></li>
+<li>📖 读书 <a href="https://www.guofei.site/BookList.html">267 本</a>，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 63.6 万字</li>
+<li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <b><a href="/sports.html">1300公里</a></b></li>
+<li>📜 拿下几十个各领域的<a href="https://www.guofei.site/certification.html">证书</a>，例如美国心脏协会（AHA）的急救证书、北京红十字协会的救护技能证</li>
+<li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得42k次赞同/22k次收藏/ 1.4 万个关注</li>
 </ul>
 </li>
-<li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得42k次赞同/22k次收藏/ 1.4 万个关注</li>
 </ul>
 <img src="https://www.guofei.site/pages/trophy.svg">
 <hr/>
