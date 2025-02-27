@@ -29,11 +29,11 @@
 </li>
 <li>❤️ 有一些爱好
     <ul>
-<li>📖 读书 <a href="https://www.guofei.site/BookList.html">267 本</a>，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 63.6 万字</li>
+<li>📖 读书 <a href="https://www.guofei.site/BookList.html">267 本</a>，<a href="https://www.guofei.site/reading/#/">读书笔记</a> 63.7 万字</li>
 <li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <b><a href="/sports.html">1300公里</a></b></li>
 <li>📜 拿下几十个各领域的<a href="https://www.guofei.site/certification.html">证书</a>，例如美国心脏协会（AHA）急救证书、北京红十字协会救护技能证、证券从业、期货从业、会计从业等</li>
 <li>🍳 偶尔<a href="https://www.guofei.site/cook.html">烹饪</a></li>
-<li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得42k次赞同/22k次收藏/ 1.4 万个关注</li>
+<li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得57k次赞同/22k次收藏/ 1.4 万个关注</li>
 </ul>
 </li>
 </ul>
