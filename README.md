@@ -4,14 +4,14 @@
 <li>💼 工作经历
     <ul>
 <li>2020 - 今，蚂蚁集团-天堑实验室，<strong>算法专家</strong></li>
-<li>2018 - 2020，京东集团-Y事业部-动态定价 <strong>算法专家</strong></li>
-<li>2016 - 2018，中体彩彩票运营管理有限公司-体育竞猜彩票-赔率动态定价 <strong>算法工程师</strong></li>
+<li>2018 - 2020，京东集团-Y事业部-动态定价，<strong>算法专家</strong>，</li>
+<li>2016 - 2018，中体彩彩票运营管理有限公司-体育竞彩赔率动态定价 <strong>算法工程师</strong></li>
 <li>2015 - 2016，某私募基金 <strong>金融分析师</strong></li>
 </ul>
 </li>
 <li>🧮 热爱算法、数学和开源。
     <ul>
-<li>🚀 我的开源贡献用在了“机智号”火星直升机项目，此项目实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，并因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">荣誉徽章</a></li>
+<li>🚀 我的开源贡献用在了“机智号”火星直升机项目，此项目实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，我因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">荣誉徽章</a></li>
 <li>🤔 <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a> 的 121 位 <a href="https://github.com/scipy/scipy/issues/7798">作者</a> 之一
   <!-- - 📃 CDA 持证人 --></li>
 <li>⭐ 发起的开源项目在 GitHub 共获得 Star 14.2k</li>
@@ -30,8 +30,8 @@
 <li>❤️ 有一些爱好
     <ul>
 <li>📖 读书 <a href="https://www.guofei.site/BookList.html">271 本</a>，<a href="https://www.guofei.site/reading.html">读书笔记</a> 63.9万字</li>
-<li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <b><a href="/sports.html">1300公里</a></b></li>
-<li>📜 拿下几十个各领域的<a href="https://www.guofei.site/certification.html">证书</a>，例如美国心脏协会（AHA）急救证书、北京红十字协会救护技能证、证券从业、期货从业、会计从业等</li>
+<li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <b><a href="/sports.html">1300公里</a></b>，臂围39cm</li>
+<li>📜 拿下几十个各领域的<a href="https://www.guofei.site/certification.html">证书</a>，例如美国心脏协会（AHA）急救证书、北京红十字协会救护技能证、证券从业、期货从业、会计从业、CDA数据分析师等</li>
 <li>🍳 偶尔<a href="https://www.guofei.site/cook.html">烹饪</a></li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得57k次赞同/22k次收藏/ 1.4 万个关注</li>
 </ul>
