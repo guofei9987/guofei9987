@@ -22,7 +22,7 @@
 </li>
 <li>📈 懂一点儿金融
     <ul>
-<li>📚 金融类学术期刊 <em><a href="http://www.sciencepublishinggroup.com/journal/index?journalid=171">Journal of Finance and Accounting</a></em> 的 <strong><a href="https://www.guofei.site/pages/certification.html#Reviewer">审稿员</a></strong></li>
+<li>📚 金融类学术期刊 <em><a href="http://www.sciencepublishinggroup.com/journal/index?journalid=171">Journal of Finance and Accounting</a></em> 的 <strong><a href="https://www.guofei.site/certification.html#学术方面">审稿员</a></strong></li>
 <li>🎓 金融学硕士</li>
 <li>📝 中级经济师</li>
 </ul>
