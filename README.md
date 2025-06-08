@@ -32,8 +32,8 @@
 <li>📖 读书 <a href="https://www.guofei.site/BookList.html">271 本</a>，<a href="https://www.guofei.site/reading.html">读书笔记</a> 64.4万字</li>
 <li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <b><a href="/reading/运动.html">1700公里</a></b>，臂围39cm</li>
 <li>📜 拿下几十个各领域的<a href="https://www.guofei.site/certification.html">证书</a>，例如美国心脏协会（AHA）急救证书、北京红十字协会救护技能证、证券从业、期货从业、会计从业、CDA数据分析师等</li>
-<li>🍳 偶尔 <a href="https://www.guofei.site/https://www.guofei.site/reading/烹饪.html">烹饪</a></li>
-<li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得57k次赞同/22k次收藏/ 1.4 万个关注</li>
+<li>🍳 偶尔 <a href="https://www.guofei.site/reading/烹饪.html">烹饪</a></li>
+<li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得77k次赞同/23k次收藏/ 1.4 万个关注</li>
 </ul>
 </li>
 </ul>
