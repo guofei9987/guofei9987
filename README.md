@@ -14,10 +14,10 @@
 <li>🚀 我的开源贡献用在了“机智号”火星直升机项目，此项目实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，我因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">荣誉徽章</a></li>
 <li>🤔 <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a> 的 121 位 <a href="https://github.com/scipy/scipy/issues/7798">作者</a> 之一
   <!-- - 📃 CDA 持证人 --></li>
-<li>⭐ 发起的开源项目在 GitHub 共获得 Star 14.6k</li>
+<li>⭐ 发起的开源项目在 GitHub 共获得 Star 14.7k</li>
 <li>📑 授权算法相关专利 7 篇</li>
 <li>🏆 曾获全国数学建模大赛一等奖</li>
-<li>💻 <a href="https://www.guofei.site/">技术博客</a> 累积 400 篇</li>
+<li>💻 <a href="https://www.guofei.site/">技术博客</a> 累积 401 篇</li>
 </ul>
 </li>
 <li>📈 懂一点儿金融
@@ -29,8 +29,8 @@
 </li>
 <li>❤️ 有一些爱好
     <ul>
-<li>📖 读书 <a href="https://www.guofei.site/BookList.html">271 本</a>，<a href="https://www.guofei.site/reading.html">读书笔记</a> 64.6万字</li>
-<li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <b><a href="/reading/运动.html">1700公里</a></b>，臂围39cm</li>
+<li>📖 读书 <a href="https://www.guofei.site/BookList.html">271 本</a>，<a href="https://www.guofei.site/reading.html">读书笔记</a> 65.1万字</li>
+<li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <b><a href="/reading/运动记录.html">1700公里</a></b>，臂围39cm</li>
 <li>📜 拿下几十个各领域的<a href="https://www.guofei.site/certification.html">证书</a>，例如美国心脏协会（AHA）急救证书、北京红十字协会救护技能证、证券从业、期货从业、会计从业、CDA数据分析师等</li>
 <li>🍳 偶尔 <a href="https://www.guofei.site/reading/烹饪.html">烹饪</a></li>
 <li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得77k次赞同/23k次收藏/ 1.4 万个关注</li>
