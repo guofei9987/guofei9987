@@ -3,20 +3,20 @@
 <ul>
 <li>💼 工作经历
     <ul>
+<li>（兼任）某高校 <strong>专业学位硕士研究生行业指导老师</strong></li>
 <li>2020 - 今，蚂蚁集团-天堑实验室，<strong>算法专家</strong></li>
-<li>2018 - 2020，京东集团-Y事业部-动态定价，<strong>算法专家</strong>，</li>
+<li>2018 - 2020，京东集团-Y事业部-动态定价，<strong>算法专家</strong></li>
 <li>2016 - 2018，中体彩彩票运营管理有限公司-体育竞彩赔率动态定价 <strong>算法工程师</strong></li>
 <li>2015 - 2016，某私募基金 <strong>金融分析师</strong></li>
 </ul>
 </li>
 <li>🧮 热爱算法、数学和开源。
     <ul>
-<li>🚀 我的开源贡献用在了“机智号”火星直升机项目，此项目实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，我因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">荣誉徽章</a></li>
-<li>🤔 <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a> 的 121 位 <a href="https://github.com/scipy/scipy/issues/7798">作者</a> 之一
-  <!-- - 📃 CDA 持证人 --></li>
+<li>🚀 我的开源贡献用于“机智号”火星直升机项目，此项目实现了<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">人类首次在另一个星球的动力飞行</a>，我因此被 NASA 授予 <a href="https://github.com/guofei9987?achievement=mars-2020-contributor&amp;tab=achievements">荣誉徽章</a></li>
+<li>🤔 <a href="https://github.com/scipy/scipy/releases/tag/v1.0.0">scipy 1.0.0</a> 的 121 位 <a href="https://github.com/scipy/scipy/issues/7798">作者</a> 之一</li>
 <li>⭐ 发起的开源项目在 GitHub 共获得 Star 14.7k</li>
 <li>📑 授权算法相关专利 7 篇</li>
-<li>🏆 曾获全国数学建模大赛一等奖</li>
+<li>🏆 获全国数学建模大赛一等奖</li>
 <li>💻 <a href="https://www.guofei.site/">技术博客</a> 累积 404 篇</li>
 </ul>
 </li>
@@ -29,11 +29,11 @@
 </li>
 <li>❤️ 有一些爱好
     <ul>
-<li>📖 读书 <a href="https://www.guofei.site/BookList.html">273 本</a>，<a href="https://www.guofei.site/reading.html">读书笔记</a> 65.9万字</li>
+<li>📖 读书 <a href="https://www.guofei.site/BookList.html">274 本</a>，<a href="https://www.guofei.site/reading.html">读书笔记</a> 66.2万字</li>
 <li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <b><a href="/reading/运动记录.html">1700公里</a></b>，臂围39cm</li>
-<li>📜 拿下几十个各领域的<a href="https://www.guofei.site/certification.html">证书</a>，例如美国心脏协会（AHA）急救证书、北京红十字协会救护技能证、证券从业、期货从业、会计从业、CDA数据分析师等</li>
-<li>🍳 偶尔 <a href="https://www.guofei.site/reading/烹饪.html">烹饪</a></li>
-<li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得77k次赞同/23k次收藏/ 1.4 万个关注</li>
+<li>📜 收集几十个各领域的<a href="https://www.guofei.site/certification.html">证书</a>，例如美国心脏协会（AHA）急救证书、北京红十字协会救护技能证、证券从业、期货从业、会计从业、工信部高级数据分析师等</li>
+<li>🍳 经常 <a href="https://www.guofei.site/reading/烹饪.html">烹饪</a></li>
+<li>📫 <a href="https://www.zhihu.com/people/guofei9987/answers/by_votes" target="_blank">知乎</a> 获得77k赞同/23k收藏/ 1.4 万关注</li>
 </ul>
 </li>
 </ul>
@@ -58,6 +58,6 @@
 <a href="http://www.guofei.site/public/donate/qr_wechat.jpg"><img alt="wechat" src="https://www.guofei.site/public/logo/wechat.svg"/></a>
 <a href="mailto:me@guofei.site"><img alt="email" src="https://www.guofei.site/public/logo/email.svg"/></a>
 <a href="https://www.guofei.site/" target="_blank">
-<img alt="me" class="me" height="40" src="https://www.guofei.site/public/about/me2.png" style="vertical-align: middle;" width="40"/>
+<img alt="me" class="me" height="40" src="https://www.guofei.site/p/me/me2.png" style="vertical-align: middle;" width="40"/>
 </a></p>
 <p><br/></p>
