@@ -37,7 +37,7 @@
 </ul>
 </li>
 </ul>
-<img src="https://www.guofei.site/pages/trophy.svg">
+<object data="https://www.guofei.site/trophy.svg" style="width: 100%;max-width: 550px;"></object>
 <hr/>
 <p>我发起的开源项目：</p>
 <p><a href="https://github.com/guofei9987/scikit-opt"><img alt="scikit-opt" src="https://www.guofei.site/public/icon/scikit-opt.svg"/></a>
