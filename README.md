@@ -29,7 +29,7 @@
 </li>
 <li>❤️ 有一些爱好
     <ul>
-<li>📖 读书 <a href="https://www.guofei.site/BookList.html">282 本</a>，<a href="https://www.guofei.site/reading.html">读书笔记</a> 69.4万字</li>
+<li>📖 读书 <a href="https://www.guofei.site/BookList.html">282 本</a>，<a href="https://www.guofei.site/reading.html">读书笔记</a> 69.5万字</li>
 <li>🤸 爱好运动。能做 30 个 <b><a href="https://www.bilibili.com/video/BV1L64y1t7Ef/" target="_blank">单手俯卧撑</a></b>，近3年跑步 <b><a href="/reading/运动记录.html">1700公里</a></b>，臂围39cm</li>
 <li>📜 收集几十个各领域的<a href="https://www.guofei.site/certification.html">证书</a>，例如美国心脏协会（AHA）急救证书、北京红十字协会救护技能证、证券从业、期货从业、会计从业、工信部高级数据分析师等</li>
 <li>🍳 经常 <a href="https://www.guofei.site/reading/烹饪.html">烹饪</a></li>
@@ -40,23 +40,23 @@
 <img src="https://www.guofei.site/trophy.svg">
 <hr/>
 <p>我发起的开源项目：</p>
-<p><a href="https://github.com/guofei9987/scikit-opt"><img alt="scikit-opt" src="https://www.guofei.site/public/icon/scikit-opt.svg"/></a>
-<a href="https://github.com/guofei9987/blind_watermark"><img alt="blind_watermark" src="https://www.guofei.site/public/icon/blind_watermark.svg"/></a>
-<a href="https://github.com/guofei9987/text_blind_watermark"><img alt="text_blind_watermark" src="https://www.guofei.site/public/icon/text_blind_watermark.svg"/></a>
-<a href="https://github.com/guofei9987/guofei9987.github.io"><img alt="guofei9987.github.io" src="https://www.guofei.site/public/icon/guofei9987.github.io.svg"/></a>
-<a href="https://github.com/guofei9987/HideInfo"><img alt="HideInfo" src="https://www.guofei.site/public/icon/HideInfo.svg"/></a>
-<a href="https://github.com/guofei9987/pyLSHash"><img alt="pyLSHash" src="https://www.guofei.site/public/icon/pyLSHash.svg"/></a>
-<a href="https://github.com/guofei9987/github_star_counter"><img alt="github_star_counter" src="https://www.guofei.site/public/icon/github_star_counter.svg"/></a>
-<a href="https://github.com/guofei9987/hidden_watermark"><img alt="hidden_watermark" src="https://www.guofei.site/public/icon/hidden_watermark.svg"/></a></p>
+<p><a href="https://github.com/guofei9987/scikit-opt"><img alt="scikit-opt" src="https://www.guofei.site/p/icon/scikit-opt.svg"/></a>
+<a href="https://github.com/guofei9987/blind_watermark"><img alt="blind_watermark" src="https://www.guofei.site/p/icon/blind_watermark.svg"/></a>
+<a href="https://github.com/guofei9987/text_blind_watermark"><img alt="text_blind_watermark" src="https://www.guofei.site/p/icon/text_blind_watermark.svg"/></a>
+<a href="https://github.com/guofei9987/guofei9987.github.io"><img alt="guofei9987.github.io" src="https://www.guofei.site/p/icon/guofei9987.github.io.svg"/></a>
+<a href="https://github.com/guofei9987/HideInfo"><img alt="HideInfo" src="https://www.guofei.site/p/icon/HideInfo.svg"/></a>
+<a href="https://github.com/guofei9987/pyLSHash"><img alt="pyLSHash" src="https://www.guofei.site/p/icon/pyLSHash.svg"/></a>
+<a href="https://github.com/guofei9987/github_star_counter"><img alt="github_star_counter" src="https://www.guofei.site/p/icon/github_star_counter.svg"/></a>
+<a href="https://github.com/guofei9987/hidden_watermark"><img alt="hidden_watermark" src="https://www.guofei.site/p/icon/hidden_watermark.svg"/></a></p>
 <p>我参与的开源项目：</p>
 <p><a href="https://github.com/scipy/scipy"><img alt="scipy" src="https://github-readme-stats.vercel.app/api/pin/?username=scipy&amp;repo=scipy&amp;theme=radical"/></a>
 <a href="https://github.com/statsmodels/statsmodels"><img alt="statsmodels" src="https://github-readme-stats.vercel.app/api/pin/?username=statsmodels&amp;repo=statsmodels&amp;theme=radical"/></a></p>
 <hr/>
 <p>如何找到我：</p>
-<p><a href="https://github.com/guofei9987/"><img alt="github" src="https://www.guofei.site/public/logo/github.svg"/></a>
-<a href="https://www.zhihu.com/people/guofei9987/answers/by_votes"><img alt="zhihu" src="https://www.guofei.site/public/logo/zhihu.svg"/></a>
-<a href="http://www.guofei.site/public/donate/qr_wechat.jpg"><img alt="wechat" src="https://www.guofei.site/public/logo/wechat.svg"/></a>
-<a href="mailto:me@guofei.site"><img alt="email" src="https://www.guofei.site/public/logo/email.svg"/></a>
+<p><a href="https://github.com/guofei9987/"><img alt="github" src="https://www.guofei.site/p/logo/github.svg"/></a>
+<a href="https://www.zhihu.com/people/guofei9987/answers/by_votes"><img alt="zhihu" src="https://www.guofei.site/p/logo/zhihu.svg"/></a>
+<a href="http://www.guofei.site/public/donate/qr_wechat.jpg"><img alt="wechat" src="https://www.guofei.site/p/logo/wechat.svg"/></a>
+<a href="mailto:me@guofei.site"><img alt="email" src="https://www.guofei.site/p/logo/email.svg"/></a>
 <a href="https://www.guofei.site/" target="_blank">
 <img alt="me" class="me" height="40" src="https://www.guofei.site/p/me/me2.png" style="vertical-align: middle;" width="40"/>
 </a></p>
