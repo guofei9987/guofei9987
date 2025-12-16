@@ -17,7 +17,7 @@
 <li>⭐ 发起的开源项目在 GitHub 共获得 Star 21.0k</li>
 <li>💡 授权算法相关专利 7 篇</li>
 <li>🏆 获全国数学建模大赛一等奖</li>
-<li>💻 <a href="https://www.guofei.site/">技术博客</a> 累积 404 篇</li>
+<li>💻 <a href="https://www.guofei.site/">技术博客</a> 累积 402 篇</li>
 </ul>
 </li>
 <li>📈 懂一点儿金融
