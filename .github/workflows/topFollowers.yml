@@ -3,6 +3,7 @@ name: Update README
 on:
   schedule:
     - cron: '0 20 * * *'
+  workflow_dispatch:
   watch:
     types: started
 
@@ -10,11 +11,11 @@ jobs:
   top-followers:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
       - name: Setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v6
         with:
-          python-version: 3.8
+          python-version: '3.12'
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
